@@ -1,3 +1,50 @@
+## Firebase database schema
+Here is a json object:
+```js
+{
+  fruit: apple,
+  vege: kale
+  animals: {
+    dog: momo,
+    cat: null
+  }
+}
+```
+
+* _keys_ are 'fruit', 'vege', 'animals', 'dog', 'cat'
+* _values_ are 'apple', 'kale', ``{dog: momo, cat: null}``
+
+Notice that you can have an object as a value. Some of the keys in the firebase database start with a dash, such as '-KNbXr2xjJL068r-qQ2G’. Dash is a valid character and doesn’t mean anything special (to us anyway, Firebase uses it).
+
+
+
+Top level objects:
+* **classificationDefs** are their own array (with a key of 0, 1, 2, …)
+
+* **currentSession**: references the key of which keywordSet and permitSet you are currently looking at
+
+* **includeKeywords** and **excludeKeywords**: each top-level key corresponds to a different keyword set, such as ‘defaultKeywordSet’ and '-KNbXr2xjJL068r-qQ2G’. The weird one is like a UUID and is created automatically when you create new keyword sets. If you change keyword sets, you’ll see keywords and abbreviations update under the new key.
+
+* **keywordSets**: You can have as many keyword sets as you want. They can match 1-to-1 to a permit set, but you may end up having the same keywordSet for multiple permitSets. The keys under keywordSets are the unique identifiers (like a UUID) and are referenced elsewhere in the database such as in currentSession, includeKeywords, and excludeKeywords.
+
+* **permitSets**: These are pre-processed datasets that are stored in the app package and are referenced by fileName. You can’t add a permitSet from the app - I have to do that manually and re-issue a new app.
+
+You can see how and where the database updates as I update the app:
+http://recordit.co/A4Lc8q4LVb
+
+(I would recommend setting up your windows like this so you can keep an eye on it)
+
+Running Locally:
+```
+npm run dev
+```
+
+Packaging:
+```
+npm run package --name SnuggPermits --icon icons/snugg.icns
+```
+
+
 # electron-react-boilerplate
 
 [![NPM version][npm-image]][npm-url]
