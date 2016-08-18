@@ -1,0 +1,38 @@
+
+/* == Slide up modal ======================================================== */
+/* TODO: change this from export to reflect this can be used for anything */
+.export-modal.modal-dialog {
+  margin: 10px auto 0;
+}
+
+.modal.fade .export-modal.modal-dialog {
+  bottom: 0;
+  top: auto;
+  left: 0;
+  right: 0;
+  position: fixed;
+  -webkit-transition: -webkit-transform .3s ease-out;
+       -o-transition:      -o-transform .3s ease-out;
+          transition:         transform .3s ease-out;
+  -webkit-transform: translate(0, 125%);
+      -ms-transform: translate(0, 125%);
+       -o-transform: translate(0, 125%);
+          transform: translate(0, 125%);
+}
+
+.modal.in .export-modal.modal-dialog {
+  -webkit-transform: translate(0, 0);
+      -ms-transform: translate(0, 0);
+       -o-transform: translate(0, 0);
+          transform: translate(0, 0);
+}
+
+
+.export-modal {
+  width: 94%;
+  height: 85%;
+}
+.export-modal .modal-content {
+  height: 100%;
+  border-radius: 0;
+}

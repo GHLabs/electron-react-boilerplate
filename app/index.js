@@ -1,18 +1,13 @@
 import React from 'react';
-import { render } from 'react-dom';
-import { Provider } from 'react-redux';
-import { Router, hashHistory } from 'react-router';
-import { syncHistoryWithStore } from 'react-router-redux';
+import {render} from 'react-dom';
+import {Router, hashHistory} from 'react-router';
 import routes from './routes';
-import configureStore from './store/configureStore';
-import './app.global.css';
+import './styles/app.global.css'
+import './styles/react-virtualized.global.css'
+import './styles/react-select-box.global.css'
 
-const store = configureStore();
-const history = syncHistoryWithStore(hashHistory, store);
 
 render(
-  <Provider store={store}>
-    <Router history={history} routes={routes} />
-  </Provider>,
+  <Router history={hashHistory} routes={routes} />,
   document.getElementById('root')
 );

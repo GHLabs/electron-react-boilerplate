@@ -4,6 +4,8 @@ let menu;
 let template;
 let mainWindow = null;
 
+// require('electron-debug')()
+require('electron-debug')({showDevTools: true})
 
 if (process.env.NODE_ENV === 'development') {
   require('electron-debug')(); // eslint-disable-line global-require
@@ -52,8 +54,9 @@ app.on('ready', async () => {
     mainWindow = null;
   });
 
+  mainWindow.openDevTools();
   if (process.env.NODE_ENV === 'development') {
-    mainWindow.openDevTools();
+    // mainWindow.openDevTools();
     mainWindow.webContents.on('context-menu', (e, props) => {
       const { x, y } = props;
 
@@ -68,9 +71,9 @@ app.on('ready', async () => {
 
   if (process.platform === 'darwin') {
     template = [{
-      label: 'Electron',
+      label: 'Analytics',
       submenu: [{
-        label: 'About ElectronReact',
+        label: 'About Analytics',
         selector: 'orderFrontStandardAboutPanel:'
       }, {
         type: 'separator'
@@ -80,7 +83,7 @@ app.on('ready', async () => {
       }, {
         type: 'separator'
       }, {
-        label: 'Hide ElectronReact',
+        label: 'Hide Analytics',
         accelerator: 'Command+H',
         selector: 'hide:'
       }, {
@@ -130,7 +133,7 @@ app.on('ready', async () => {
       }]
     }, {
       label: 'View',
-      submenu: (process.env.NODE_ENV === 'development') ? [{
+      submenu: [{
         label: 'Reload',
         accelerator: 'Command+R',
         click() {
@@ -147,12 +150,6 @@ app.on('ready', async () => {
         accelerator: 'Alt+Command+I',
         click() {
           mainWindow.toggleDevTools();
-        }
-      }] : [{
-        label: 'Toggle Full Screen',
-        accelerator: 'Ctrl+Command+F',
-        click() {
-          mainWindow.setFullScreen(!mainWindow.isFullScreen());
         }
       }]
     }, {

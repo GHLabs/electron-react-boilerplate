@@ -1,0 +1,1000 @@
+id,permitId,parcelId,category,type,description,sanitizedDescription,jobCost,year
+0,BLD-00-001,119726409007,,Building Lot Determination,BLOT,blot,0,2000
+1,BLD-00-002,120520400005,,Building Lot Determination,BLOT,blot,0,2000
+2,BLD-00-003,158123000017,,Building Lot Determination,BLOT,blot,0,2000
+3,BLD-00-004,157713001006,,Building Lot Determination,BLOT,blot,0,2000
+4,BLD-00-005,157716000054,,Building Lot Determination,BLOT,blot,0,2000
+5,BLD-00-006,158104007011,,Building Lot Determination,BLOT,blot,0,2000
+6,BLD-00-007,119930000014,,Building Lot Determination,BLOT,blot,0,2000
+7,BLD-00-008,146133000028,,Building Lot Determination,BLOT,blot,0,2000
+8,BLD-00-010,146534100002,,Building Lot Determination,BLOT,blot,0,2000
+9,BLD-00-011,146124200007,,Building Lot Determination,BLOT,blot,0,2000
+10,BLD-00-012,146310000005,,Building Lot Determination,BLOT,blot,0,2000
+11,BLD-00-013,158105003013,,Building Lot Determination,BLOT,blot,0,2000
+12,BLD-00-014,,,Building Lot Determination,BLOT,blot,0,2000
+13,BLD-00-015,131727400008,,Building Lot Determination,BLOTNOT,blotnot,0,2000
+14,BLD-00-016,132118012011,,Building Lot Determination,BLOTNOT,blotnot,0,2000
+15,BLD-00-017,131536000005,,Building Lot Determination,BLOT,blot,0,2000
+16,BLD-00-018,158102001001,,Building Lot Determination,BLOT,blot,0,2000
+17,BLD-00-019,120321000013,,Building Lot Determination,BLOT,blot,0,2000
+18,BLD-00-020,158113000023,,Building Lot Determination,BLOT,blot,0,2000
+19,BP-09-0832,157730300001,"Single family dwelling, including modular",Residential Remodel,REMOVE 3 WINDOWS & 2 DOORS AND REPLACE WITH 2DOORS & 3 WINDOWS & INSULATE AROUNG WINDOWS & DOORS,remove 3 windows & 2 doors and replace with 2doors & 3 windows & insulate aroung windows & doors,25000,2009
+20,BLD-00-021,158113000026,,Building Lot Determination,BLOT,blot,0,2000
+21,BLD-00-022,157721000018,,Building Lot Determination,BLOT,blot,0,2000
+22,BLD-00-023,157712200001,,Building Lot Determination,BLOT/BLOTNOT,blot / blotnot,0,2000
+23,BLD-00-024,158121000009,,Building Lot Determination,BLOT,blot,0,2000
+24,BLD-00-025,158108010002,,Building Lot Determination,BLOT,blot,0,2000
+25,BLD-00-027,145701000025,,Building Lot Determination,BLOT,blot,0,2000
+26,BLD-00-028,158113000028,,Building Lot Determination,BLOT,blot,0,2000
+27,BLD-00-029,146129000005,,Building Lot Determination,BLOT,blot,0,2000
+28,BLD-00-030,131520000033,,Building Lot Determination,BLOT,blot,0,2000
+29,BLD-00-031,145905000011,,Building Lot Determination,BLOT,blot,0,2000
+30,BLD-00-032,158107000050,,Building Lot Determination,BLOTNOT,blotnot,0,2000
+31,BLD-00-033,158107000050,,Building Lot Determination,BLOTNOT,blotnot,0,2000
+32,BLD-00-034,158107000050,,Building Lot Determination,BLOT,blot,0,2000
+33,BLD-00-035,132133000017,,Building Lot Determination,BLOT,blot,0,2000
+34,BLD-00-036,119714000021,,Building Lot Determination,BLOT,blot,0,2000
+35,BLD-00-037,157501301004,,Building Lot Determination,BLOT,blot,0,2000
+36,BLD-00-038,157501301005,,Building Lot Determination,BLOT,blot,0,2000
+37,BLD-00-039,146316000025,,Building Lot Determination,BLOT,blot,0,2000
+38,BLD-00-041,119735000016,,Building Lot Determination,BLOT,blot,0,2000
+39,BLD-00-042,132122009002,,Building Lot Determination,BLOT,blot,0,2000
+40,BLD-00-043,158105003002,,Building Lot Determination,BLOT,blot,0,2000
+41,BLD-00-044,157712202001,,Building Lot Determination,BLOT,blot,0,2000
+42,BLD-00-045,158136010023,,Building Lot Determination,BLOT,blot,0,2000
+43,BLD-00-046,157925406012,,Building Lot Determination,BLOTNOT,blotnot,0,2000
+44,BLD-00-047,145906000052,,Building Lot Determination,BLOT,blot,0,2000
+45,BLD-00-048,132127000026,,Building Lot Determination,BLOT,blot,0,2000
+46,BLD-00-049,146314000029,,Building Lot Determination,BLOT,blot,0,2000
+47,BLD-00-121,146130000034,,Building Lot Determination,BLOT,blot,0,2000
+48,BLD-00-050,131734000008,,Building Lot Determination,BLOT,blot,0,2000
+49,BLD-00-051,146506000008,,Building Lot Determination,BLOT approx 2 acres,blot approx 2 acres,0,2000
+50,BLD-00-052,158321213007,,Building Lot Determination,BLOT,blot,0,2000
+51,BLD-00-053,120531000030,,Building Lot Determination,BLOT,blot,0,2000
+52,BLD-00-054,146112000060,,Building Lot Determination,BLOT,blot,0,2000
+53,BLD-00-055,158321203003,,Building Lot Determination,BLOTNOT (see letter in docs file),blotnot ( see letter in docs file ),0,2000
+54,BLD-00-056,146124203027,,Building Lot Determination,"Land parcel of approximately 3.5 acres, in Section 23, T1N, R71W, is eligible for designation as one building lot by Boulder County","land parcel of approximately 3 . 5 acres , in section 23 , t1n , r71w , is eligible for designation as one building lot by boulder county",0,2000
+55,BLD-00-057,146103006025,,Building Lot Determination,BLOT,blot,0,2000
+56,BLD-00-058,131727000012,,Building Lot Determination,BLOT Approximately 35 acres,blot approximately 35 acres,0,2000
+57,BLD-00-059,119702000068,,Building Lot Determination,BLOT,blot,0,2000
+58,BLD-00-060,158103001018,,Building Lot Determination,BLOT,blot,0,2000
+59,BLD-00-061,157925410002,,Building Lot Determination,BLOT,blot,0,2000
+60,BLD-00-062,120317000042,,Building Lot Determination,BLOT,blot,0,2000
+61,BLD-00-063,158108007010,,Building Lot Determination,BLOT,blot,0,2000
+62,BLD-00-064,,,Building Lot Determination,BLOTNOT,blotnot,0,2000
+63,BLD-00-065,157926402001,,Building Lot Determination,BLOT,blot,0,2000
+64,BLD-00-066,131919000002,,Building Lot Determination,BLOT,blot,0,2000
+65,BLD-00-067a,120110001004,,Building Lot Determination,BLOT,blot,0,2000
+66,BP-09-1387,146506000004,"Single family dwelling, including modular",New Residence,"New Single Family Dwelling
+MOVED IN HOUSE ON NEW FOUNDATION (RE: SPR-09-0054)",new single family dwelling moved in house on new foundation ( re: spr - 09 - 0054 ),32530,2009
+67,BLD-00-067b,120110001001,,Building Lot Determination,BLOT,blot,0,2000
+68,BLD-00-067c,120110001015,,Building Lot Determination,BLOT,blot,0,2000
+69,BLD-00-067d,120110001012,,Building Lot Determination,BLOT,blot,0,2000
+70,BLD-00-068,145690000005,,Building Lot Determination,BLOT,blot,0,2000
+71,BLD-00-071,146513000014,,Building Lot Determination,BLOT,blot,0,2000
+72,BLD-00-073,146334400026,,Building Lot Determination,BLOT,blot,0,2000
+73,BP-09-1560,146336000034,"Single family dwelling, including modular",Solar Electrical System,"Solar PV Array 5.4 KW Grid Tied, Flush Roof Mounted on Residence","solar pv array 5 . 4 kw grid tied , flush roof mounted on residence",43200,2009
+74,BLD-00-074,145912000034,,Building Lot Determination,BLOT,blot,0,2000
+75,BLD-00-075,158129000013,,Building Lot Determination,BLOT,blot,0,2000
+76,BLD-00-076,158136007011,,Building Lot Determination,BLOT,blot,0,2000
+77,BLD-00-077,131536000014,,Building Lot Determination,BLOT,blot,0,2000
+78,BLD-00-078,132129000012,,Building Lot Determination,BLOT,blot,0,2000
+79,BLD-00-080,158111000003,,Building Lot Determination,"BLOT approx. 7.76 acres, in Section 11, T1S, R72W","blot approx . 7 . 76 acres , in section 11 , t1s , r72w",0,2000
+80,BLD-00-082,158321216005,,Building Lot Determination,BLOT,blot,0,2000
+81,BLD-00-083,132127000009,,Building Lot Determination,BLOTNOT: Cannot consider Tract 1 (10.74 acre parcel) to be buildable without considering Tract 2.  Parcels have been and are currently described on one deed.  Building permits were issued for a single family residence on both tracts (22 acre parcel).,blotnot: cannot consider tract 1 ( 10 . 74 acre parcel ) to be buildable without considering tract 2 . parcels have been and are currently described on one deed . building permits were issued for a single family residence on both tracts ( 22 acre parcel ) .,0,2000
+82,BLD-00-084,132127002013,,Building Lot Determination,BLOT,blot,0,2000
+83,BLD-00-085,120326000052,,Building Lot Determination,BLOT,blot,0,2000
+84,BLD-00-086,132122012003,,Building Lot Determination,BLOT,blot,0,2000
+85,BLD-00-087,158315100023,,Building Lot Determination,BLOT,blot,0,2000
+86,BLD-00-088,145924000027,,Building Lot Determination,BLOT,blot,0,2000
+87,BLD-00-089,132129001001,,Building Lot Determination,BLOT,blot,0,2000
+88,BLD-00-090,146324000007,,Building Lot Determination,BLOT,blot,0,2000
+89,BLD-00-091,145936000015,,Building Lot Determination,BLOT,blot,0,2000
+90,BLD-00-093,157714000008,,Building Lot Determination,BLOT,blot,0,2000
+91,BLD-00-094,146317306002,,Building Lot Determination,BLOT,blot,0,2000
+92,BLD-00-095,146132000028,,Building Lot Determination,BLOT,blot,0,2000
+93,BLD-00-096,158321009004,,Building Lot Determination,BLOTNOT,blotnot,0,2000
+94,BLD-00-097,146132000028,,Building Lot Determination,BLOT,blot,0,2000
+95,BLD-00-098,157931001022,,Building Lot Determination,BLOT,blot,0,2000
+96,BLD-00-099,120323000038,,Building Lot Determination,BLOT,blot,0,2000
+97,BLD-00-100,146527000016,,Building Lot Determination,BLOT,blot,0,2000
+98,BP-09-1627,146111000021,"Single family dwelling, including modular",Residential Remodel,Install 3 solar thermal flush roof mounted on residence,install 3 solar thermal flush roof mounted on residence,9899,2009
+99,BLD-00-102,145701000035,,Building Lot Determination,BLOT,blot,0,2000
+100,BLD-00-103,157931007022,,Building Lot Determination,BLOTNOT,blotnot,0,2000
+101,BLD-00-104,146108000012,,Building Lot Determination,BLOT,blot,0,2000
+102,BLD-00-105,119712000111,,Building Lot Determination,BLOT,blot,0,2000
+103,BLD-00-106,119714000036,,Building Lot Determination,BLOT,blot,0,2000
+104,BLD-00-107,158314000004,,Building Lot Determination,BLOT,blot,0,2000
+105,BLD-00-108,119934409001,,Building Lot Determination,BLOT,blot,0,2000
+106,BLD-00-109,120306000024,,Building Lot Determination,"BLOT - parcel of five (5) acres, in Section 6, T3N, R70W, is eligible for designation as a building lot","blot - parcel of five ( 5 ) acres , in section 6 , t3n , r70w , is eligible for designation as a building lot",0,2000
+107,BLD-00-110,119712000001,,Building Lot Determination,BLOT,blot,0,2000
+108,BLD-00-111,158321002002,,Building Lot Determination,BLOT,blot,0,2000
+109,BLD-00-113,146317100003,,Building Lot Determination,BLOT,blot,0,2000
+110,BLD-00-114,157716000015,,Building Lot Determination,BLOT,blot,0,2000
+111,BLD-00-115,146514002007,,Building Lot Determination,BLOT,blot,0,2000
+112,BLD-00-116,158314000006,,Building Lot Determination,BLOT,blot,0,2000
+113,BLD-00-117,131721000001,,Building Lot Determination,BLOT,blot,0,2000
+114,BLD-00-118,120318200006,,Building Lot Determination,BLOT,blot,0,2000
+115,BLD-00-119,158315100010,,Building Lot Determination,BLOT,blot,0,2000
+116,BLD-00-120,131720000041,,Building Lot Determination,BLOT,blot,0,2000
+117,BLD-00-122,119735000013,,Building Lot Determination,BLOT,blot,0,2000
+118,BLD-00-123,146529000010,,Building Lot Determination,BLOT,blot,0,2000
+119,BLD-00-124,131504400006,,Building Lot Determination,BLOT,blot,0,2000
+120,BLD-00-125,145908000010,,Building Lot Determination,BLOT,blot,0,2000
+121,BLD-00-126,120113000008,,Building Lot Determination,Lot not eligible for building lot determination.,lot not eligible for building lot determination .,0,2000
+122,BLD-00-127,119702000072,,Building Lot Determination,,,0,2000
+123,BLD-00-128,157501307001,,Building Lot Determination,BLOTNOT,blotnot,0,2000
+124,BLD-00-129,131531101001,,Building Lot Determination,BLOT,blot,0,2000
+125,BLD-00-130,146105000021,,Building Lot Determination,BLOT-ONLY ONE,blot - only one,0,2000
+126,BLD-00-131,146526000013,,Building Lot Determination,BLOT,blot,0,2000
+127,BLD-00-132,158502000012,,Building Lot Determination,BLOT,blot,0,2000
+128,BLD-00-133,146114008011,,Building Lot Determination,,,0,2000
+129,BLD-00-134,119714000012,,Building Lot Determination,"approved BLOT Determination for 3.71 acre parcel in S14, T3N R73W","approved blot determination for 3 . 71 acre parcel in s14 , t3n r73w",0,2000
+130,BLD-00-135,146515000017,,Building Lot Determination,Joseph Gomez,joseph gomez,0,2000
+131,BLD-00-136,145907000021,,Building Lot Determination,BLOT -  Florence and Protection claims,blot - florence and protection claims,0,2000
+132,BLD-00-137,132122012006,,Building Lot Determination,BLOT,blot,0,2000
+133,BLD-00-138,158112000031,,Building Lot Determination,BLOT - 38.07 acres,blot - 38 . 07 acres,0,2000
+134,BLD-00-139,120100000023,,Building Lot Determination,Approved BLOT for 56.8 acres Assessor ID #51058,approved blot for 56 . 8 acres assessor id #51058,0,2000
+135,BLD-00-140,120110000004,,Building Lot Determination,Approved BLOT for 1.85 acres Assessor ID #143372,approved blot for 1 . 85 acres assessor id #143372,0,2000
+136,BLD-00-143,157704400003,,Building Lot Determination,Land parcel of 10.24 acres is eligible for designation as a building lot by Boulder County.,land parcel of 10 . 24 acres is eligible for designation as a building lot by boulder county .,0,2000
+137,BLD-00-150,157714000013,,Building Lot Determination,"Parcel of land of approx. 1.25 acres, in Section 14, T1S, R70W, is eligible for designation as a building lot (see Documents)","parcel of land of approx . 1 . 25 acres , in section 14 , t1s , r70w , is eligible for designation as a building lot ( see documents )",0,2000
+138,BLD-00-151,146532000030,,Building Lot Determination,BLOT of approx. 2.94 acres in Section 32-T1N-R69W (see SE-90-002),blot of approx . 2 . 94 acres in section 32 - t1n - r69w ( see se - 90 - 002 ),0,2000
+139,BLD-00-152,158129000002,,Building Lot Determination,Eligible for designation as a building lot by Boulder County.,eligible for designation as a building lot by boulder county .,0,2000
+140,BLD-00-153,157910000043,,Building Lot Determination,BLOT,blot,0,2000
+141,BLD-00-155,119712000064,,Building Lot Determination,BLOT,blot,0,2000
+142,BLD-00-156,158122000107,,Building Lot Determination,BLOT per CR-6 Lazy Z Estates,blot per cr - 6 lazy z estates,0,2000
+143,BLD-00-157,145907000034,,Building Lot Determination,BLOT - This is a legal building lot.  2.43 acres,blot - this is a legal building lot . 2 . 43 acres,0,2000
+144,BLD-00-171,120319000009,,Building Lot Determination,2.2-acre BLOT,2 . 2 - acre blot,0,2000
+145,BLD-00-172,120325000066,,Building Lot Determination,TRACTS 654 & 663 - SEPARATE BLOTS,tracts 654 & 663 - separate blots,0,2000
+146,BLD-00-160,132109003002,,Building Lot Determination,BLOT,blot,0,2000
+147,BLD-00-163,120326000045,,Building Lot Determination,BLOT,blot,0,2000
+148,BLD-00-165,119712000106,,Building Lot Determination,BLOT - 7.0 acre parcel,blot - 7 . 0 acre parcel,0,2000
+149,BLD-00-168,146336000003,,Building Lot Determination,BLOT NOT - See also BLD-00-167,blot not - see also bld - 00 - 167,0,2000
+150,BLD-00-169,157905000013,,Building Lot Determination,BLOT 2.35 acres,blot 2 . 35 acres,0,2000
+151,BP-00-0001,146320100020,,Commercial Remodel,MOVE WALLS/DOORWAYS,move walls / doorways,5000,2000
+152,BP-00-0002,146314206002,,Residential Remodel,REROOF/OVERLAY,reroof / overlay,4060,2000
+153,BP-00-0003,,,Electrical Service Change,ELECTRIC FOR TRAFFIC SIGNAL IN ROW,electric for traffic signal in row,2000,2000
+154,BP-00-0004,157505001005,,Residential Remodel,TEAROFF/REROOF/LAMINATED SHINGLES,tearoff / reroof / laminated shingles,3952,2000
+155,BP-00-0005,146114009007,,Residential Remodel,TEAROFF/REROOF/INS ROOF/LAM.SHING,tearoff / reroof / ins roof / lam . shing,7982,2000
+156,BP-00-0006,120504003002,,New Residence,DEMO WALLS/PORCH ROOFS/PLUMBING,demo walls / porch roofs / plumbing,4500,2000
+157,BP-00-0007,157710002003,,Residential Remodel,REMODEL KITCH/DINING RM,remodel kitch / dining rm,25000,2000
+158,BP-00-0020,146316000015,,Electrical Service Change,UPGRADE ELECT. TO RESIDENCE (EXPIRED),upgrade elect . to residence ( expired ),1800,2000
+159,BP-00-0009,146313215002,,Residential Remodel,TEAR-OFF RE-ROOF CLASS B SHAKES,tear - off re - roof class b shakes,10777,2000
+160,BP-00-0010,120508000001,,Accessory Agricultural Building,POLE BARN,pole barn,35000,2000
+161,BP-00-0011,145911005005,,Residential Remodel,WOOD STOVE,wood stove,2000,2000
+162,BP-00-0012,131715002002,,Commercial Remodel,TEAROFF/REROOF BARN/METAL  ROOF,tearoff / reroof barn / metal roof,5000,2000
+163,BP-00-0013,146335310006,,Residential Remodel,REPAIR GAS LINE,repair gas line,300,2000
+164,BP-00-0019,120326000034,,Electrical Service Change,ELECTRICAL UPGRADE TO PUMP STATION,electrical upgrade to pump station,30000,2000
+165,BP-00-0014,146336015001,,Accessory Agricultural Building,CONCRETE VAULT / IRRIGATION PUMP /CENTRAL SYSTEM (EXPIRED PER JEFF 4/10/2003-DRS),concrete vault / irrigation pump / central system ( expired per jeff 4 / 10 / 2003 - drs ),6000,2000
+166,BP-00-0015,131530014004,,Manufactured Home,CONSTRUCTION TRAILER(EXPIRED ON 10-31-2007 FINAL NEVER REQUSTED),construction trailer ( expired on 10 - 31 - 2007 final never requsted ),0,2000
+167,BP-00-0016,158313103013,,Commercial Remodel,GAS LINE TO STUDIO,gas line to studio,750,2000
+168,BP-00-0017,146532010018,,Residential Remodel,ADD BASEMENT FINISH(99-578),add basement finish ( 99 - 578 ),30000,2000
+169,BP-00-0018,146307000002,,Residential Remodel,KITCHEN REMODEL / REPLACE APPLIANCES,kitchen remodel / replace appliances,75000,2000
+170,BP-00-0027,120518000001,,Residential Remodel,ATTIC FURNACE,attic furnace,3057,2000
+171,BP-00-0021,146531000027,,Electrical Service Change,ELECTRICAL SUB-FEED/PANEL,electrical sub - feed / panel,1500,2000
+172,BP-00-0022,158123000022,,Residential Remodel,BASEMENT FINISH/BATH/BEDRM,basement finish / bath / bedrm,8000,2000
+173,BP-00-0023,146122001005,,Electrical Service Change,MOVE ELECTRIC METER,move electric meter,200,2000
+174,BP-00-0024,120520003001,,Residential Remodel,BASEMENT FINISH (WITHDRAWN 1/3/01 AS PER CONTRACTOR/OWNER LLS),basement finish ( withdrawn 1 / 3 / 01 as per contractor / owner lls ),0,2000
+175,BP-00-0025,120319000021,,Residential Remodel,REPLACE ELEC. WATER HEATER,replace elec . water heater,550,2000
+176,BP-00-0026,120518000001,,Residential Remodel,BSMT PROPANE FURNACE& WTR HTR,bsmt propane furnace & wtr htr,2687,2000
+177,BP-00-0028,157711000050,,Residential Remodel,INSTALL ELEVATOR,install elevator,24000,2000
+178,BP-00-0029,132115001013,,Electrical Service Change,ELECT FOR SOLAR,elect for solar,22000,2000
+179,BP-00-0030,145906000016,,Electrical Service Change,SOLAR ELECTRIC SYSTEM,solar electric system,17000,2000
+180,BP-00-0031,146317403011,,Electrical Service Change,INSTALL SOLAR ELECTRIC,install solar electric,3000,2000
+181,BP-00-0032,146318400008,,Residential Remodel,INTER. REMODEL/2BED/1BATH/GAR ROOF,inter . remodel / 2bed / 1bath / gar roof,75000,2000
+182,BP-00-0033,131529001006,,New Residence,SINGLE FAM DWELLING/ATT GAR,single fam dwelling / att gar,450000,2000
+183,BP-00-0034,131530014004,,New Residence,DEMO RES,demo res,18000,2000
+184,BP-00-0035,131530014004,,Residential Accessory Building,DEMO GARAGE,demo garage,2095,2000
+185,BP-00-0036,146313204003,,Residential Addition,REMODEL KITCH;ADD GAR/FAM RM/BEDRM(APP EXPIRED 01/23/2001 SM),remodel kitch;add gar / fam rm / bedrm ( app expired 01 / 23 / 2001 sm ),0,2000
+186,BP-00-0037,146322300014,,Moved in Residence,MOHO SETUP IN SAN LAZARO,moho setup in san lazaro,900,2000
+187,BP-00-0038,157510400011,,Residential Addition,ADD AIR LOCK ENTRY  / REROOF / REMODEL RES.,add air lock entry / reroof / remodel res .,12500,2000
+188,BP-00-0039,120520005005,,New Residence,SINGLE FAM DWELLING/ATT GAR,single fam dwelling / att gar,700000,2000
+189,BP-00-0040,120520004003,,Residential Remodel,FINISH ATTIC SPACE(PERMIT APP EXPIRED 01/23/2001 SM),finish attic space ( permit app expired 01 / 23 / 2001 sm ),18018,2000
+190,BP-00-0041,119900000021,,New Residence,DEMO FIRE DAMAGE HOME,demo fire damage home,7500,2000
+191,BP-00-0042,146322203006,,Residential Remodel,INTERIOR KITCHEN REMODEL/ELECTRIC,interior kitchen remodel / electric,25000,2000
+192,BP-00-0043,131919002009,,Accessory Agricultural Building,DETACHED STORAGE SHED,detached storage shed,20377,2000
+193,BP-00-0044,131736013003,,Commercial Remodel,INSTALL 2 90 TON ROOFTOP UNITS,install 2 90 ton rooftop units,149273,2000
+194,BP-00-0045,146327000024,,Commercial Remodel,REMODEL OFFICE SPACE,remodel office space,15000,2000
+195,BP-00-0046,157917001002,,Electrical Service Change,TEMP ELEC FOR FUTURE RESIDENCE,temp elec for future residence,300,2000
+196,BP-00-0047,146509300008,,Commercial Addition,ADDITION/CONVERSION CARPORT TO POLE BARN,addition / conversion carport to pole barn,28900,2000
+197,BP-00-0048,146510002009,,New Residence,SINGLE FAM DWELLING/ATT GAR,single fam dwelling / att gar,514675,2000
+198,BP-00-0049,131519000009,,Moved In Commercial Building,MOVED IN HORSE BARN & ELEC.,moved in horse barn & elec .,20000,2000
+199,BP-00-0050,157730302008,,Residential Remodel,INSTALL BATHRM/WINDOWS/SIDING(EXPIRED-FINAL NOT REQUESTED),install bathrm / windows / siding ( expired - final not requested ),7000,2000
+200,BP-00-0577,,,Grading,CATV IN ROW,catv in row,390,2000
+201,BP-00-0051,158313256001,,Residential Remodel,PARTIAL BASEMENT FINISH,partial basement finish,2578,2000
+202,BP-00-0052,131900000050,,Unlighted Free-standing Sign,SIGN FOR WAREHS-MCGUCKIN'S HARDWARE,sign for warehs - mcguckin's hardware,2800,2000
+203,BP-00-0053,131530323010,,Residential Remodel,BASEMENT FINISH,basement finish,25000,2000
+204,BP-00-0054,120325209001,,Residential Addition,ADD TO MASTER BR,add to master br,28000,2000
+205,BP-00-0055,146515000005,,Grading,GRADING FOR CREEK RESTORATION,grading for creek restoration,0,2000
+206,BP-00-0056,120333001021,,Residential Accessory Building,ENTRY STRUCTURE/MAILBOX KIOSK,entry structure / mailbox kiosk,25000,2000
+207,BP-00-0057,158118016009,,New Residence,SINGLE FAM DWELLING/ATT GAR,single fam dwelling / att gar,149171,2000
+208,BP-00-0058,146313214030,,Residential Remodel,COVERT FIREPLACE TO GAS / WITH INSERT,covert fireplace to gas / with insert,1836,2000
+209,BP-00-0059,131913003035,,Residential Remodel,INSTALL 3 FURNACES138000BTU / 1 AC 6500 CFM,install 3 furnaces138000btu / 1 ac 6500 cfm,5515,2000
+210,BP-00-0060,146521006001,,Grading,GRADING FOR POLE BARN,grading for pole barn,0,2000
+211,BP-00-0061,157730300006,,Residential Accessory Building,FENCE,fence,2120,2000
+212,BP-00-0072,131715002002,,Commercial Remodel,REMODEL BARN (PERMIT APP EXPIRED 01/23/2001),remodel barn ( permit app expired 01 / 23 / 2001 ),0,2000
+213,BP-00-0062,131531003001,,Residential Addition,REPLACE SFR-ATT GAR/ADDITION,replace sfr - att gar / addition,670000,2000
+214,BP-00-0063,157730302006,,Electrical Service Change,ELEC SERVICE UPGRADE,elec service upgrade,300,2000
+215,BP-00-0064,131509000008,,Residential Remodel,INSTALL 4 TON CONDENSER,install 4 ton condenser,1797,2000
+216,BP-00-0065,120522313002,,Residential Remodel,INSTALL 3 TON AC SYSTEM,install 3 ton ac system,3375,2000
+217,BP-00-0066,131532214002,,Residential Remodel,INSTALL CONDENSER 3 TON,install condenser 3 ton,4265,2000
+218,BP-00-0113,158313347002,,Residential Remodel,BASMENT FINISH,basment finish,3218,2000
+219,BP-00-0067,158324000020,,New Residence,SINGLE FAM DWELLING/ATT GAR (SPR-99-175),single fam dwelling / att gar ( spr - 99 - 175 ),155421,2000
+220,BP-00-0068,158136100038,,Accessory Agricultural Building,AS BUILT 2-STORY STORAGE SHED,as built 2 - story storage shed,12000,2000
+221,BP-00-0069,131533000006,,Electrical Service Change,ADD 100A SERVICE & 4 LIGHTS(WITHDRAWN),add 100a service & 4 lights ( withdrawn ),2500,2000
+222,BP-00-0070,157701400004,,Residential Remodel,REPLACE FURNACE IN RES(EXPIRED-11/19/04),replace furnace in res ( expired - 11 / 19 / 04 ),1125,2000
+223,BP-00-0071,120306000018,,Electrical Service Change,TEMP ELECTRIC,temp electric,550,2000
+224,BP-00-0073,120317000007,,Commercial Remodel,REMODEL SUPPLY DITCH STRUCTURE,remodel supply ditch structure,15000,2000
+225,BP-00-0074,120520002001,,Residential Remodel,BASEMENT FINISH,basement finish,12000,2000
+226,BP-00-0075,157721000077,,New Commercial Building,OFFICE BUILDING:SHELL ONLY(STRUCTURE DEMOED WITH BP-05-192),office building:shell only ( structure demoed with bp - 05 - 192 ),500000,2000
+227,BP-00-0076,157701207003,,Residential Remodel,REFRAME RF/REROOF/REMOD KIT/LIGHTS (re: BCV-00-76),reframe rf / reroof / remod kit / lights ( re: bcv - 00 - 76 ),27000,2000
+228,BP-00-0077,131725407004,,Residential Remodel,REPLACE WATER HEATER,replace water heater,579,2000
+229,BP-00-0078,146312420001,,Residential Remodel,REPLACE WATER HEATER(EXPIRED-FINAL NOT REQUESTED),replace water heater ( expired - final not requested ),579,2000
+230,BP-00-0079,146310413007,,Residential Remodel,REPLACE WATER HEATER,replace water heater,579,2000
+231,BP-00-0080,146314203003,,Residential Remodel,REPLACE WATER HEATER-EXPIRED PER JEFF 3/07/2003 BY DRS,replace water heater - expired per jeff 3 / 07 / 2003 by drs,579,2000
+232,BP-00-0081,146335203001,,Residential Remodel,REPLACE WATER HEATER,replace water heater,579,2000
+233,BP-00-0082,158320009007,,Residential Remodel,INSTALL BACKUP GENERATOR,install backup generator,800,2000
+234,BP-00-0083,157701103001,,Residential Remodel,RELOCATE LAUNDRY ROOM,relocate laundry room,5000,2000
+235,BP-00-0084,131530311024,,Residential Addition,ADDITION TO NEW SFD,addition to new sfd,13872,2000
+236,BP-00-0112,131531214004,,Residential Addition,ADD SITTING ROOM,add sitting room,18000,2000
+237,BP-00-0085,131725402006,,Residential Accessory Building,DETACHED GAR / ON SLAB,detached gar / on slab,10410,2000
+238,BP-00-0086,120335002004,,Residential Remodel,BOILER REPLACEMENT,boiler replacement,2851,2000
+239,BP-00-0087,131530014015,,New Residence,SINGLE FAM DWELLING/ATT GAR,single fam dwelling / att gar,490000,2000
+240,BP-00-0088,146317102034,,Residential Remodel,GAS LOG INSERT,gas log insert,846,2000
+241,BP-00-0089,146123001002,,Residential Remodel,ENCLOSE DECK FOR KIDS' NURSERY,enclose deck for kids' nursery,10000,2000
+242,BP-00-0090,146311202012,,Residential Remodel,REMODEL APARTMENT BUILDING,remodel apartment building,349584,2000
+243,BP-00-0091,146311202012,,Residential Remodel,REMODEL APARTMENT BLD.,remodel apartment bld .,407848,2000
+244,BP-00-0092,146301311013,,Residential Addition,"EXPAND MBR, BATH/ADD MBATH","expand mbr , bath / add mbath",18000,2000
+245,BP-00-0093,146122000067,,Residential Remodel,2 CFM COOLERS-VENT-KIT HOOD-DRYER,2 cfm coolers - vent - kit hood - dryer,5500,2000
+246,BP-00-0094,132121002005,,Residential Accessory Building,DETACHED GARAGE,detached garage,14400,2000
+247,BP-00-0095,158105002012,,New Residence,SINGLE FAM DWELLING/ATT GAR (SPR-00-014),single fam dwelling / att gar ( spr - 00 - 014 ),250000,2000
+248,BP-00-9900,,,Accessory Agricultural Building,1997 UBC VOLUME 1,1997 ubc volume 1,0,2000
+249,BP-00-0096,146518000005,,Residential Remodel,REPLACE FURNACE IN RES-EXPIRED 3/15/2005 NO FINAL EVER REQUESTED-DRS,replace furnace in res - expired 3 / 15 / 2005 no final ever requested - drs,3000,2000
+250,BP-00-0097,146507305015,,Residential Remodel,NEW GAS LINE & GAS LOG INSERT,new gas line & gas log insert,500,2000
+251,BP-00-0098,146301314009,,Residential Remodel,REPLACE WINDOWS IN 2 BEDROOMS,replace windows in 2 bedrooms,3480,2000
+252,BP-00-0099,120113000063,,Residential Accessory Building,DETACHED GAR/SHOP/STUDIO,detached gar / shop / studio,50940,2000
+253,BP-00-0100,120113000063,,Residential Remodel,INTERIOR REMODEL/BATH/KIT/MSTR BED,interior remodel / bath / kit / mstr bed,15000,2000
+254,BP-00-0101,146514007002,,Residential Remodel,REMODEL RES:KITCH/DINING/BATH,remodel res:kitch / dining / bath,36000,2000
+255,BP-00-0102,158114004007,,Accessory Agricultural Building,24 X 12 BARN(PERMIT APP EXPIRED 01/23/2001 SM),24 x 12 barn ( permit app expired 01 / 23 / 2001 sm ),2000,2000
+256,BP-00-0103,146302405009,,Residential Remodel,BASEMENT FINISH:2 BR/1BATH,basement finish:2 br / 1bath,16500,2000
+257,BP-00-0104,157712203005,,Residential Remodel,REPLACE FURNACE / 45000 BTU,replace furnace / 45000 btu,1806,2000
+258,BP-00-0105,157931005008,,Residential Addition,2ND STORY ADD/BASE FIN/EXPIRED 02/05/2001 HLP,2nd story add / base fin / expired 02 / 05 / 2001 hlp,43848,2000
+259,BP-00-0106,132133000085,,Accessory Agricultural Building,NEW DISTRIBUTION CENTER  WITHDRAWN 12/27/00,new distribution center withdrawn 12 / 27 / 00,35000,2000
+260,BP-00-0578,,,Grading,CATV IN ROW,catv in row,390,2000
+261,BP-00-0107,132133000085,,Accessory Agricultural Building,TOILET STRUCTURE  WITHDRAWN 12/27/00,toilet structure withdrawn 12 / 27 / 00,15000,2000
+262,BP-00-0108,132127004010,,New Residence,HUD MANU ON BASEMENT - FINAL INSPECTION NEVER REQUESTED 12/14/01 LH,hud manu on basement - final inspection never requested 12 / 14 / 01 lh,109693,2000
+263,BP-00-0109,146114035001,,Residential Remodel,ADD ADA LIFT(AMERICANS W/DISABILITIES),add ada lift ( americans w / disabilities ),17300,2000
+264,BP-00-0110,158136008008,,Residential Remodel,CONVERT ELECT HEAT TO NAT GAS,convert elect heat to nat gas,1000,2000
+265,BP-00-0111,120322000020,,Grading,GRAVEL PIT GAS / DEISEL PUMP INSTALL,gravel pit gas / deisel pump install,63700,2000
+266,BP-00-9901,,,Accessory Agricultural Building,1997 UBC VOLUME 2,1997 ubc volume 2,0,2000
+267,BP-00-0114,131515400014,,Electrical Service Change,ELEC TO PUMP,elec to pump,3400,2000
+268,BP-00-0115,146311108014,,Residential Remodel,REMOD MBATH/ADD GAS FP/3 WNDWS IN LR,remod mbath / add gas fp / 3 wndws in lr,7500,2000
+269,BP-00-0116,131530312016,,New Residence,SINGLE FAM DWELL / ATT GAR,single fam dwell / att gar,179386,2000
+270,BP-00-0117,146318401001,,Residential Accessory Building,ADOBE FENCE/WALL,adobe fence / wall,2000,2000
+271,BP-00-0118,120504003002,,Residential Addition,ADD 2 BEDROOMS,add 2 bedrooms,62370,2000
+272,BP-00-0130,131732001058,,Residential Remodel,BASEMENT FINISH,basement finish,37000,2000
+273,BP-00-0119,158118012011,,Residential Addition,ADD 2ND FLR TO RES:2BR/1 BATH,add 2nd flr to res:2br / 1 bath,60000,2000
+274,BP-00-0120,146317405009,,Residential Addition,ADD REC RM OVER GARAGE,add rec rm over garage,24097,2000
+275,BP-00-0121,157711000071,,Commercial Remodel,STAIRS TO ATTIC SPACE IN SHED,stairs to attic space in shed,7826,2000
+276,BP-00-0122,158104003002,,New Residence,SINGLE FAM DWELL / NO GAR (SPR-00-004),single fam dwell / no gar ( spr - 00 - 004 ),140132,2000
+277,BP-00-0123,158118016002,,New Residence,SINGLE FAM DWELLING/NO GAR,single fam dwelling / no gar,143778,2000
+278,BP-00-9902,,,Accessory Agricultural Building,1997 UBC VOLUME 3,1997 ubc volume 3,0,2000
+279,BP-00-0124,157505003009,,Residential Remodel,REPLACE FURNACE,replace furnace,2493,2000
+280,BP-00-0125,146311419002,,Residential Remodel,WTR HTR-AIR CLEANER-A/C-HUMIDIFIER,wtr htr - air cleaner - a / c - humidifier,3097,2000
+281,BP-00-0126,120324004002,,Residential Remodel,REVISE BSMT FINISH (SEE 98 1147),revise bsmt finish ( see 98 1147 ),31615,2000
+282,BP-00-0127,146130003005,,Residential Accessory Building,CARPORT & RETAINING WALL,carport & retaining wall,0,2000
+283,BP-00-0128,157523000005,,Unlighted Free-standing Sign,COMMERCIAL SIGN,commercial sign,4080,2000
+284,BP-00-0129,131730000018,,Grading,GRADING FOR BACKWASH PONDS(EXPIRED-FINAL NOT REQUESTED),grading for backwash ponds ( expired - final not requested ),117000,2000
+285,BP-00-0131,135104300012,,Grading,CUT BACK UNDERCUT RIVER BANK,cut back undercut river bank,0,2000
+286,BP-00-0132,131530322009,,Residential Addition,DINING ROOM ADDITION,dining room addition,9979,2000
+287,BP-00-0133,146301315018,,Residential Remodel,REMODEL KITCHEN/ADD LAUNDRY,remodel kitchen / add laundry,16000,2000
+288,BP-00-0134,131505008001,,Residential Addition,972 SQFT ADDITION TO RES,972 sqft addition to res,65281,2000
+289,BP-00-0135,157513403004,,Residential Remodel,INSTALL GAS LOG FIREPLACE,install gas log fireplace,2000,2000
+290,BP-00-0136,157931001023,,Residential Accessory Building,RELOCATE GARAGE &ADD ELEC.,relocate garage & add elec .,1500,2000
+291,BP-00-0137,146334400002,,Residential Accessory Building,DETACHED GAR/STUDIO,detached gar / studio,109616,2000
+292,BP-00-0138,131508000004,,Electrical Service Change,REPLACE ELEC PANEL,replace elec panel,800,2000
+293,BP-00-0139,146122000007,,Residential Remodel,2ND FLOOR FINISH/STUDIO/RES,2nd floor finish / studio / res,10000,2000
+294,BP-00-0140,131726303017,,Grading,RESTORE CREEK & BANK STABILIZATION (EXPIRED PER GERRY 4/24/2003),restore creek & bank stabilization ( expired per gerry 4 / 24 / 2003 ),0,2000
+295,BP-00-0141,131529301004,,Residential Remodel,INSTALL 75K BTU HEATER,install 75k btu heater,900,2000
+296,BP-00-0153,131513000022,,Residential Remodel,TEAR-OFF/REROOF RES/DIMENSIONALS,tear - off / reroof res / dimensionals,8285,2000
+297,BP-00-0142,131532000002,,Electrical Service Change,ELECTRICAL TO SPRINKLER CONTROLL,electrical to sprinkler controll,600,2000
+298,BP-00-0143,158313252001,,Residential Remodel,3 SHEAR WALLS / STABLIZE FOUNDATION,3 shear walls / stablize foundation,1000,2000
+299,BP-00-0144,131532216008,,Residential Remodel,FURNACE-A/C-WTR HTR-HUMIDIFIER,furnace - a / c - wtr htr - humidifier,5813,2000
+300,BP-00-0145,157910000018,,Residential Addition,ADD OFFICE TO RES,add office to res,26000,2000
+301,BP-00-0146,119726002006,,Residential Remodel,PROPANE FURNACE IN BSMT/LINES/DUCTWK,propane furnace in bsmt / lines / ductwk,3500,2000
+302,BP-00-0160,120334000010,,Residential Remodel,REPLACE BOILER 37K BTU,replace boiler 37k btu,6633,2000
+303,BP-00-0147,146314000014,,Residential Remodel,TEAR OFF & REROOF 30 YR LAMINATE,tear off & reroof 30 yr laminate,1600,2000
+304,BP-00-0148,146103000006,,Residential Remodel,BOILER REPLACEMENT,boiler replacement,4182,2000
+305,BP-00-0149,158313246001,,Residential Remodel,BASEMENT FINISH,basement finish,14608,2000
+306,BP-00-0150,146531000016,,Commercial Remodel,INSTALL 3 NEW FURNACES,install 3 new furnaces,13000,2000
+307,BP-00-0151,146104017003,,Residential Remodel,KITCHEN REMODEL,kitchen remodel,30000,2000
+308,BP-00-0152,146335205002,,Residential Addition,ADD 3RD BAY TO GARAGE (99-234),add 3rd bay to garage ( 99 - 234 ),8000,2000
+309,BP-00-0154,120333001017,,New Residence,SINGLE FAMILY DWELLING/ATT GAR,single family dwelling / att gar,2000000,2000
+310,BP-00-0155,158114004016,,Residential Addition,ADD BATH TO RES,add bath to res,30000,2000
+311,BP-00-0156,131924021005,,Residential Remodel,TEAR-OFF/REROOF RES/METAL ROOFING,tear - off / reroof res / metal roofing,4200,2000
+312,BP-00-0157,146312208033,,Residential Remodel,TEAROFF/REROOF RES/CLASS C SHAKES,tearoff / reroof res / class c shakes,12306,2000
+313,BP-00-0158,146322300014,,Moved in Residence,MOHO SETUP,moho setup,1200,2000
+314,BP-00-0159,157721000024,,Moved in Residence,MOBILE HOME IN PARK,mobile home in park,50000,2000
+315,BP-00-0161,132129000009,,Residential Remodel,INTERIOR REMOD:BATH/STORAGE AREA,interior remod:bath / storage area,6000,2000
+316,BP-00-0162,146501000018,,New Commercial Building,DEMO 2 SILOS/SHEDS/FENCES (MINE GRVL),demo 2 silos / sheds / fences ( mine grvl ),2500,2000
+317,BP-00-0163,146514001008,,Residential Accessory Building,DEMO CARPORT BUILD DET GARAGE,demo carport build det garage,14342,2000
+318,BP-00-0164,131531222001,,Commercial Remodel,TENANT FINISH FOR HERITAGE BANK (UNIT 103),tenant finish for heritage bank ( unit 103 ),70000,2000
+319,BP-00-0165,131531222001,,Commercial Addition,DRIVE UP CANOPY,drive up canopy,40000,2000
+320,BP-00-0166,131919004007,,Residential Addition,ADD UTILITY ROOM & DECKS,add utility room & decks,9937,2000
+321,BP-00-0167,131912000004,,Accessory Agricultural Building,PARK RESTROOM/COMPOSTING SYSTEM,park restroom / composting system,28000,2000
+322,BP-00-0168,145917000012,,Electrical Service Change,SUBPANEL FOR SOLAR SYSTEM,subpanel for solar system,1800,2000
+323,BP-00-0169,131732208007,,Residential Addition,GARAGE ADDITION & BEDROOM ABOVE GAR,garage addition & bedroom above gar,30600,2000
+324,BP-00-0170,131530014014,,New Residence,SINGLE FAM DWELLING/ATT GAR,single fam dwelling / att gar,1300000,2000
+325,BP-00-0171,146313103028,,Residential Remodel,INSTALL ADE AMER. VINYL SIDING ON RES,install ade amer . vinyl siding on res,11602,2000
+326,BP-00-9904,,,Accessory Agricultural Building,1997 DWELLING CODE,1997 dwelling code,0,2000
+327,BP-00-0172,146502001005,,New Residence,SINGLE FAM DWELLING/ATT GAR,single fam dwelling / att gar,245501,2000
+328,BP-00-0173,146318406004,,Residential Remodel,FDN/SLAB REPAIR 99-1777 (W/ADD'L DEMO),fdn / slab repair 99 - 1777 ( w / add'l demo ),5000,2000
+329,BP-00-0174,146123011006,,Residential Addition,ADD DECK TO RES,add deck to res,7500,2000
+330,BP-00-0175,146318405004,,Residential Accessory Building,ADD BATH/STORAGE TO DET GAR,add bath / storage to det gar,4851,2000
+331,BP-00-0176,146327000048,,Commercial Remodel,TENANT FINISH,tenant finish,750000,2000
+332,BP-00-0177,131712003001,,Accessory Agricultural Building,POLE BRN / 3 STALLS,pole brn / 3 stalls,19500,2000
+333,BP-00-0178,146317403041,,Residential Remodel,ELECT 20 AMP FOR AC,elect 20 amp for ac,250,2000
+334,BP-00-0179,146530006004,,Residential Addition,DECK & PATIO ADDITION,deck & patio addition,31000,2000
+335,BP-00-0180,146311202012,,Residential Remodel,REMODEL APARTMENTS,remodel apartments,291320,2000
+336,BP-00-0181,146311202012,,Residential Remodel,REMODEL APARTMENTS,remodel apartments,407848,2000
+337,BP-00-0182,131531106003,,Residential Remodel,BASEMENT FINISH,basement finish,31000,2000
+338,BP-00-0183,146520000029,,Residential Remodel,PARTIAL BSMT FINISH/STORAGE,partial bsmt finish / storage,16600,2000
+339,BP-00-0184,131530014005,"Single family dwelling, including modular",New Residence,SINGLE FAM DWELLING,single fam dwelling,243897,2000
+340,BP-00-0185,146313101008,,Residential Addition,ADD FAM RM/ENLARGE KITCHEN,add fam rm / enlarge kitchen,22000,2000
+341,BP-00-0186,146318400027,,Residential Remodel,TEAR OFF & REROOF / CORRUGATED LEXAN PANELS WINDOW/DOOR REPAIR,tear off & reroof / corrugated lexan panels window / door repair,1500,2000
+342,BP-00-0187,146311411008,,Residential Remodel,REPLACE WTR HTR,replace wtr htr,300,2000
+343,BP-00-0188,146314216018,,Residential Addition,EXT STAIRS/EXIT DOOR IN BSMT,ext stairs / exit door in bsmt,3200,2000
+344,BP-00-9905,,,Accessory Agricultural Building,1997 UMC,1997 umc,9904,2000
+345,BP-00-0189,146336000041,,Residential Accessory Building,IN GROUND POOL WITH FENCE /COVER,in ground pool with fence / cover,50000,2000
+346,BP-00-0190,146312302030,,Residential Remodel,REPLACE FURNACE 135K BTU,replace furnace 135k btu,1500,2000
+347,BP-00-0191,158313337004,,Residential Remodel,INSTALL FURNACE 100000 BTU,install furnace 100000 btu,2352,2000
+348,BP-00-0192,120111000039,,New Residence,SINGLE FAM DWELLING/ATT GAR (SPR-99-235),single fam dwelling / att gar ( spr - 99 - 235 ),217760,2000
+349,BP-00-0193,131736119004,,Residential Remodel,FULL TEAR OFF  / REROOF WITH 30 YR ASPHALT,full tear off / reroof with 30 yr asphalt,7000,2000
+350,BP-00-0194,146130002004,,Residential Remodel,REPL WDSTOVE/UPGRADE STOVEPIPE,repl wdstove / upgrade stovepipe,1500,2000
+351,BP-00-0195,131530014007,,New Residence,SINGLE FAM DWELLING/ATT GAR,single fam dwelling / att gar,259867,2000
+352,BP-00-0196,146124202002,,Residential Addition,"ADD KIT/DIN RM, ENLARGE BR/DEN","add kit / din rm , enlarge br / den",100000,2000
+353,BP-00-0197,131727400007,,Residential Addition,"GAR, LIVING, FOYER ADDITIONS","gar , living , foyer additions",100000,2000
+354,BP-00-0198,146335308003,,Electrical Service Change,ELECT. SER CHANGE 125 AMP,elect . ser change 125 amp,1100,2000
+355,BP-00-0199,146335308002,,Electrical Service Change,ELEC SER CHANGE,elec ser change,1200,2000
+356,BP-00-0212,131722000007,,Accessory Agricultural Building,GAZEBO,gazebo,24000,2000
+357,BP-00-0200,157701407012,,Residential Addition,ADD BATH&EXPAND BDRMS/FAM RM/DIN RM/LV RM,add bath & expand bdrms / fam rm / din rm / lv rm,100000,2000
+358,BP-00-0201,146318100041,,Residential Remodel,FULL TEAR OFF /REROOF 25YR CLASS C ASPHALT,full tear off / reroof 25yr class c asphalt,9100,2000
+359,BP-00-0202,131934002004,,Residential Addition,ADD DECK W/STAIRS,add deck w / stairs,2400,2000
+360,BP-00-0203,119711100029,,Residential Remodel,INSTALL GAS FIREPLACE INSERT,install gas fireplace insert,2400,2000
+361,BP-00-0204,131736112013,,Residential Remodel,INSTALL GAS LOGS,install gas logs,862,2000
+362,BP-00-0205,131530304005,,Residential Remodel,INSTALL A/C,install a / c,1700,2000
+363,BP-00-0206,146536000003,,Electrical Service Change,UPGRADE ELEC 200 AMP,upgrade elec 200 amp,750,2000
+364,BP-00-0207,157721000077,,New Commercial Building,DEMO COMMERCIAL BUILDING,demo commercial building,8000,2000
+365,BP-00-0208,158313246001,,Residential Addition,DECK,deck,6400,2000
+366,BP-00-0209,157701405002,,Residential Addition,ADDITION TO SINGLE FAM DWELL,addition to single fam dwell,160000,2000
+367,BP-00-0210,120514000018,,Residential Addition,ADDITION/REMOVE ROOF/REROOF,addition / remove roof / reroof,85000,2000
+368,BP-00-0211,120522313001,,Residential Accessory Building,DETACHED GARAGE,detached garage,20000,2000
+369,BP-00-0213,131722000007,,Accessory Agricultural Building,PUMP HOUSE FOR POOL,pump house for pool,6000,2000
+370,BP-00-0214,146519000033,,Residential Addition,ADD GAMEROOM TO RES,add gameroom to res,36200,2000
+371,BP-00-0215,,,Electrical Service Change,ELEC METER TO WATER FLOW SYSTEM -EXPIRED PER JEFF 6/5/2003-DRS,elec meter to water flow system - expired per jeff 6 / 5 / 2003 - drs,1200,2000
+372,BP-00-0216,146317403041,,Residential Remodel,REPLACE FURNACE/ADD A/C,replace furnace / add a / c,3500,2000
+373,BP-00-0217,146312402025,,Residential Remodel,REPLACE FURNACE,replace furnace,2200,2000
+374,BP-00-0218,157931006012,,Residential Addition,DORMER ABOVE SUNROOM,dormer above sunroom,4000,2000
+375,BP-00-0219,131522002009,,Residential Remodel,TEAROFF/REROOF RES/ASPHALT SHINGLES,tearoff / reroof res / asphalt shingles,3800,2000
+376,BP-00-0220,146314002017,,Residential Remodel,INDOOR THERAPY POOL,indoor therapy pool,18000,2000
+377,BP-00-0221,131524000015,,Grading,GRADING FOR COMPOSTING PROJECT,grading for composting project,0,2000
+378,BP-00-0222,146301100001,,Accessory Agricultural Building,PREFAB EQUIP SHLTR/AT&T EQUIP TO SILO,prefab equip shltr / at & t equip to silo,22000,2000
+379,BP-00-0223,131913003005,,Residential Addition,ADD TO RES,add to res,200000,2000
+380,BP-00-0224,146311410008,,Residential Remodel,REPLACE FURNACE,replace furnace,1089,2000
+381,BP-00-0225,146104005001,,Residential Remodel,REPLACE BOILER,replace boiler,3074,2000
+382,BP-00-0226,146311410006,,Residential Remodel,GAS INSERT,gas insert,829,2000
+383,BP-00-0227,146324000032,,Grading,NOISE BERM (FINAL INSPECTION COMPLETED BY GIL ON 3/7/01)LLS,noise berm ( final inspection completed by gil on 3 / 7 / 01 ) lls,1000,2000
+384,BP-00-0228,157701407009,,Electrical Service Change,WIRE LIFT STATION,wire lift station,250,2000
+385,BP-00-0229,131727000001,,New Residence,RELOCATE RES/ATT GAR,relocate res / att gar,25000,2000
+386,BP-00-0230,131707004005,,Residential Remodel,NEW WNDWS/BATH PLUM/REMOD SUNRM,new wndws / bath plum / remod sunrm,25000,2000
+387,BP-00-0231,146509300010,,Residential Addition,ENLARGING DET. GARAGE,enlarging det . garage,9464,2000
+388,BP-00-0232,146310430003,,Residential Remodel,INSTALL A/C,install a / c,1683,2000
+389,BP-00-0233,131530016003,,New Residence,SINGLE FAM DWELLING (PERMIT WITHDRAWN BY OWNER12/06/2000 SM),single fam dwelling ( permit withdrawn by owner12 / 06 / 2000 sm ),0,2000
+390,BP-00-0234,131530014008,,New Residence,SINGLE FAM DWELLING,single fam dwelling,246675,2000
+391,BP-00-0235,157501103001,,New Residence,MAHO ON CRAWLSPACE FDN,maho on crawlspace fdn,81774,2000
+392,BP-00-0236,131514000011,,New Commercial Building,DEMO OUTBLDG,demo outbldg,5000,2000
+393,BP-00-0237,146335303002,,Electrical Service Change,TEMP ELEC FOR RESIDENCE,temp elec for residence,75,2000
+394,BP-00-0238,157715001003,,Electrical Service Change,REPLACE ELEC PANEL,replace elec panel,1000,2000
+395,BP-00-0239,157720004007,,Residential Accessory Building,INGROUND SPA,inground spa,13000,2000
+396,BP-00-0240,146309004007,,Residential Remodel,FURNACE REPLACEMENT,furnace replacement,2480,2000
+397,BP-00-0241,146516004008,,Accessory Agricultural Building,COMPRESSOR HOUSE,compressor house,6000,2000
+398,BP-00-0242,131935000012,,New Residence,SINGLE FAM DWELLING/ATT GAR (SPR-99-156),single fam dwelling / att gar ( spr - 99 - 156 ),400000,2000
+399,BP-00-0243,131736010002,,Commercial Remodel,TENANT FINISH-CHAPARRAL TECHNOLOGIES,tenant finish - chaparral technologies,728000,2000
+400,BP-00-0244,131531222001,,Unlighted Free-standing Sign,SIGN FOR IRISH PUB,sign for irish pub,0,2000
+401,BP-00-0245,146529003005,,Residential Addition,PATIO ENCLOSURE ON EXISTING PAD,patio enclosure on existing pad,14560,2000
+402,BP-00-0246,120320100034,,Moved in Residence,MOVED IN CONST TRAILER,moved in const trailer,1000,2000
+403,BP-00-0247,119712000026,,Electrical Service Change,ELEC SERVICE UPGRADE,elec service upgrade,950,2000
+404,BP-00-0248,146317201009,,Residential Remodel,FURNACE REPLACEMENT,furnace replacement,6000,2000
+405,BP-00-0249,146134000008,,Commercial Remodel,MODIFICATIONS TO EQUIPMENT IN EXIST. FILTER BLDG.,modifications to equipment in exist . filter bldg .,300000,2000
+406,BP-00-0250,146103006029,,Residential Remodel,INSTALL PROPANE HEAT/CENTRAL AIR,install propane heat / central air,4000,2000
+407,BP-00-0251,157932009001,,Electrical Service Change,UNDGRND ELEC:METER TO FUTURE RES  (WITHDRAWN 11/01/00),undgrnd elec:meter to future res ( withdrawn 11 / 01 / 00 ),1000,2000
+408,BP-00-0252,146503000002,,Electrical Service Change,REPLACE SERVICE / SET BREAKER BOX,replace service / set breaker box,1500,2000
+409,BP-00-0253,120324004001,,New Residence,SINGLE FAM DWELLING/ATT GAR,single fam dwelling / att gar,235000,2000
+410,BP-00-9907,,,Accessory Agricultural Building,1997 UFC VOLUME 1,1997 ufc volume 1,0,2000
+411,BP-00-0254,120530000002,,Grading,GRADING(EXPIRED 11/01/2000 SM,grading ( expired 11 / 01 / 2000 sm,2000,2000
+412,BP-00-0255,131732301008,,Residential Remodel,BASEMENT FINISH - BWOP,basement finish - bwop,21366,2000
+413,BP-00-0256,120320000004,,Residential Remodel,INSTALL FURNACE & A/C,install furnace & a / c,9154,2000
+414,BP-00-0257,146310422005,,Residential Remodel,WATER HEATER INSTALLATION,water heater installation,259,2000
+415,BP-00-0258,131727400004,,Residential Accessory Building,INGROUND POOL,inground pool,17220,2000
+416,BP-00-0259,146322400002,,Commercial Remodel,REM WKSHOP:BATH-ELEC-HEAT-INSUL-DRYWL,rem wkshop:bath - elec - heat - insul - drywl,8940,2000
+417,BP-00-0260,131935008002,,Residential Remodel,INSTALL A/C,install a / c,2124,2000
+418,BP-00-0261,131728000018,,Residential Remodel,FURNACE REPLACEMENT,furnace replacement,1928,2000
+419,BP-00-0262,146114012008,,Residential Remodel,REPAIR DAMAGED EXTERIOR WALL,repair damaged exterior wall,1372,2000
+420,BP-00-0263,146114001003,,Residential Remodel,CONVERT TO GAS INSERT(EXPIRED-FINAL NOT REQUESTED),convert to gas insert ( expired - final not requested ),2000,2000
+421,BP-00-0264,131726001001,,Accessory Agricultural Building,STORAGE SHED,storage shed,23808,2000
+422,BP-00-0265,131529301006,,Residential Remodel,BASEMENT FINISH,basement finish,18000,2000
+423,BP-00-0266,146532103026,,Residential Remodel,REPLACE FURNACE,replace furnace,2000,2000
+424,BP-00-0267,146133000049,,Electrical Service Change,UPGRADE ELECTRICAL SERVICE/ ADD KITCHEN OUTLETS(EXPIRED),upgrade electrical service / add kitchen outlets ( expired ),3000,2000
+425,BP-00-0268,131924022003,,Electrical Service Change,UPGRADE SERVICE & WIRE A/C,upgrade service & wire a / c,3000,2000
+426,BP-00-0269,146312404006,,Residential Remodel,FURNACE REPLACEMENT,furnace replacement,1619,2000
+427,BP-00-0270,157712202010,,Residential Remodel,INSTALL GAS LINE FOR GAS LOGS,install gas line for gas logs,250,2000
+428,BP-00-0271,,,Electrical Service Change,UPGRADE ELEC FOR CELLULAR PHONE SITE(EXPIRED-5/11/01-FINAL NOT REQUESTED),upgrade elec for cellular phone site ( expired - 5 / 11 / 01 - final not requested ),2000,2000
+429,BP-00-0272,131735000012,,Residential Remodel,GAS LINE IN RES,gas line in res,223,2000
+430,BP-00-0273,131732004037,,Residential Addition,ADD LIV RM/BSMT/BATH/DECK (PERMIT APP EXPIRED 02/16/2001 SM),add liv rm / bsmt / bath / deck ( permit app expired 02 / 16 / 2001 sm ),40000,2000
+431,BP-00-0274,146114027001,,Residential Remodel,FURN-DUCTWK-VENT&BATH FANS-WTR HTR,furn - ductwk - vent & bath fans - wtr htr,3800,2000
+432,BP-00-0275,146322300017,,Accessory Agricultural Building,SKID SHED (BWOP),skid shed ( bwop ),2976,2000
+433,BP-00-0276,131531104009,,Residential Remodel,BASEMENT FINISH - PARTIAL,basement finish - partial,18000,2000
+434,BP-00-0307,120514000031,,Electrical Service Change,CONVERT OVERHD TO UNDERGRD ELECTRICAL,convert overhd to undergrd electrical,500,2000
+435,BP-00-0277,146114035002,,Grading,GRADING FOR DRIVEWAY PERMIT EXPIRED 02/08/2001 SM,grading for driveway permit expired 02 / 08 / 2001 sm,0,2000
+436,BP-00-0278,120515000014,,Accessory Agricultural Building,PORTABLE LOAFING SHED,portable loafing shed,4000,2000
+437,BP-00-0279,146311202012,,Residential Accessory Building,10 CAR DET. GAR - 'A',10 car det . gar - 'a',43680,2000
+438,BP-00-0280,146311202012,,Residential Accessory Building,10 CAR DET. GAR - 'B',10 car det . gar - 'b',43680,2000
+439,BP-00-0281,146311202012,,Residential Accessory Building,8 CAR DET. GAR - 'C',8 car det . gar - 'c',34944,2000
+440,BP-00-0282,131726304002,,Electrical Service Change,ELEC UPGRADE IN GARAGE,elec upgrade in garage,100,2000
+441,BP-00-0283,146112000005,,Electrical Service Change,ELEC OUTLETS/GASLINE (FURNACE TO HTR)(EXPIRED-FINAL NOT REQUESTED),elec outlets / gasline ( furnace to htr ) ( expired - final not requested ),550,2000
+442,BP-00-0284,131532203012,,Residential Addition,ADD GAR/TV RM/REMODEL CEILING (09/18/2000 PERMIT WITHDRAWN)SM,add gar / tv rm / remodel ceiling ( 09 / 18 / 2000 permit withdrawn ) sm,38858,2000
+443,BP-00-0285,120307000024,,Residential Addition,DECK,deck,7899,2000
+444,BP-00-0286,146312321001,,Residential Remodel,MBR CLOSET REMOD-MOVE LNDRY-ADD TO BR,mbr closet remod - move lndry - add to br,50000,2000
+445,BP-00-0287,157701306011,,Residential Remodel,BATHROOM REMODEL,bathroom remodel,7000,2000
+446,BP-00-0288,146311418001,,Residential Remodel,BASEMENT FINISH,basement finish,12098,2000
+447,BP-00-0289,120326000026,,Electrical Service Change,ELEC FOR WELL #1,elec for well #1,4325,2000
+448,BP-00-0290,120326000026,,Electrical Service Change,ELEC FOR WELL #2,elec for well #2,3670,2000
+449,BP-00-0291,146334108018,,Residential Remodel,"REMODEL KITCHEN, ADD GAS & ELECTRIC","remodel kitchen , add gas & electric",40000,2000
+450,BP-00-0292,146125308004,,Residential Remodel,REM 3 BATHS/ADD 2 SETS FRENCH DOORS,rem 3 baths / add 2 sets french doors,15000,2000
+451,BP-00-0293,146310422005,,Residential Remodel,FURNACE REPLACEMENT,furnace replacement,1750,2000
+452,BP-00-0294,131728001003,,Grading,GRADING FOR DRIVEWAY,grading for driveway,0,2000
+453,BP-00-0295,146336008001,,Residential Remodel,REPLACE FURNACE,replace furnace,1059,2000
+454,BP-00-0296,146122000030,,Residential Addition,ADD KITCHEN (PERMIT WITHDRAWN PER OWNER 04/17/2000 SM),add kitchen ( permit withdrawn per owner 04 / 17 / 2000 sm ),0,2000
+455,BP-00-0297,146520000031,,Residential Remodel,INSTALL BOILER & HOT WATER HEATER,install boiler & hot water heater,1500,2000
+456,BP-00-0298,157715000010,,Electrical Service Change,6-GUY ANTENNAS/7-EQUIP CABINETS,6 - guy antennas / 7 - equip cabinets,65000,2000
+457,BP-00-0299,158313338004,,Residential Remodel,TEAR-OFF/REROOF RES/30-YR DIM,tear - off / reroof res / 30 - yr dim,3000,2000
+458,BP-00-0300,131736104005,,Residential Remodel,INSTALL GAS LOGS,install gas logs,531,2000
+459,BP-00-0301,131719000005,,Residential Remodel,NEW FURNACE-A/C-HUMIDIFIER-WTR HTR,new furnace - a / c - humidifier - wtr htr,3930,2000
+460,BP-00-0302,158105006004,,New Residence,SINGLE FAM DWELLING/NO GAR(EXPIRED-3/10/04),single fam dwelling / no gar ( expired - 3 / 10 / 04 ),0,2000
+461,BP-00-0303,146325009002,,Commercial Remodel,REMODEL BATHRMS/HANDICAPPED,remodel bathrms / handicapped,50000,2000
+462,BP-00-0304,157721000077,,Moved In Commercial Building,TEMP CONSTRUCTION TRAILER,temp construction trailer,245,2000
+463,BP-00-0305,146519000034,,Residential Addition,ADD SUNROOM,add sunroom,23909,2000
+464,BP-00-0306,146515013001,,Residential Accessory Building,DETACHED 2-CAR GAR,detached 2 - car gar,11557,2000
+465,BP-00-0308,146510000036,,Commercial Remodel,BOILER CHANGE-OUT FOR SCHOOL,boiler change - out for school,4830,2000
+466,BP-00-0309,131704000001,,Residential Addition,ADD STORAGE SPACE & 6 DORMERS,add storage space & 6 dormers,7972,2000
+467,BP-00-0310,157721000024,,Moved in Residence,MOVED IN MANUFACTURED HOME  FINAL INSPECTION NEVER REQUESTED. 01/17/01 LLS,moved in manufactured home final inspection never requested . 01 / 17 / 01 lls,1000,2000
+468,BP-00-0311,146114028001,,Residential Accessory Building,RETAINING WALL ADJACENT TO DRIVEWAY,retaining wall adjacent to driveway,75000,2000
+469,BP-00-0312,146301325010,,Residential Remodel,INSTALL A/C(2)  WITH ELEC,install a / c ( 2 ) with elec,1931,2000
+470,BP-00-0318,146316000014,,Electrical Service Change,PHONE CABINETS/ANTENNA,phone cabinets / antenna,33191,2000
+471,BP-00-0313,131530014014,,Residential Accessory Building,DETACHED GAR/OFFICE,detached gar / office,210000,2000
+472,BP-00-0314,146530001048,,Residential Remodel,INSTALL FURNACE/& A/C,install furnace / & a / c,7000,2000
+473,BP-00-0315,146114033001,,Accessory Agricultural Building,DETACHED ART STUDIO,detached art studio,90000,2000
+474,BP-00-0316,145926000027,,Residential Addition,ADD APPLIANCE NOOK/2ND FLR BATH,add appliance nook / 2nd flr bath,2000,2000
+475,BP-00-0317,131723001001,,Residential Remodel,REROOF/ COMP,reroof / comp,8965,2000
+476,BP-00-0341,120518000001,,Residential Remodel,ELEC/BATH REMODEL,elec / bath remodel,3000,2000
+477,BP-00-0319,120522304009,,Residential Remodel,REPLACE FURNACE & ADD A/C,replace furnace & add a / c,3200,2000
+478,BP-00-0320,157712203013,,New Residence,SINGLE FAM DWELLING/ATT GAR,single fam dwelling / att gar,318912,2000
+479,BP-00-0321,131531117005,,New Residence,SINGLE FAM DWELLING/ATT GAR,single fam dwelling / att gar,670000,2000
+480,BP-00-0322,131729000006,,Residential Remodel,UPGRADE ELEC. SEVICE,upgrade elec . sevice,3100,2000
+481,BP-00-0323,146114022002,,Residential Remodel,REROOF W/DECRA STONE COATED STEEL,reroof w / decra stone coated steel,13540,2000
+482,BP-00-0347,146123009013,,Grading,GRADING FOR DRIVE/BLDG ENVELOPE(EXPIRED 10/17/2000 REAPPLIED),grading for drive / bldg envelope ( expired 10 / 17 / 2000 reapplied ),0,2000
+483,BP-00-0324,146111014003,,Residential Remodel,"REMODEL 2ND FLOOR, ADD DECK","remodel 2nd floor , add deck",35000,2000
+484,BP-00-0325,120321000013,,Residential Addition,FAMILY RM/ADD DECKS/NEW ROOF,family rm / add decks / new roof,75479,2000
+485,BP-00-0326,158111000019,,Commercial Remodel,TEAROFF/REROOF/ASPHALT SHINGLES-FIRE BARN,tearoff / reroof / asphalt shingles - fire barn,2968,2000
+486,BP-00-0327,157504003003,,Residential Addition,PATIO ENCLOSURE / RES,patio enclosure / res,10000,2000
+487,BP-00-0328,146125310017,,Residential Remodel,INTERIOR REMODEL,interior remodel,20000,2000
+488,BP-00-0329,146312312012,,Residential Remodel,INSTALL AC / RES-EXPIRED PER JEFF 3/11/2003DRS,install ac / res - expired per jeff 3 / 11 / 2003drs,1454,2000
+489,BP-00-0330,145926001017,,Commercial Addition,REM/ADD TO SHED FOR OFFICE-STUDIO-STRG(PERMIT APP EXPIRED 01/23/2001 SM),rem / add to shed for office - studio - strg ( permit app expired 01 / 23 / 2001 sm ),0,2000
+490,BP-00-0331,131532003001,,Moved In Commercial Building,MOVED IN SALES OFFICE,moved in sales office,0,2000
+491,BP-00-0332,131725410001,,Commercial Remodel,TENANT FINISH (WITHDRAWN AS PER CONTR. 1/3/01 LLS),tenant finish ( withdrawn as per contr . 1 / 3 / 01 lls ),150000,2000
+492,BP-00-0333,131506000008,,Residential Addition,ADD/REM RES:LR/BR/EXTERIOR WORK,add / rem res:lr / br / exterior work,75000,2000
+493,BP-00-0334,131727001003,,Residential Accessory Building,DEMO GAR/NEW 2-CAR GAR/STORAGE,demo gar / new 2 - car gar / storage,21000,2000
+494,BP-00-0359,131531005004,,Residential Remodel,INSTALL A/C,install a / c,1870,2000
+495,BP-00-0335,131727006001,,Residential Addition,ADD PORCH TO RES,add porch to res,75000,2000
+496,BP-00-0336,146314203023,,Residential Remodel,BATHROOM REMODEL,bathroom remodel,4000,2000
+497,BP-00-0337,120520408007,,Residential Remodel,INSTALL 3-TON CONDENSER,install 3 - ton condenser,1029,2000
+498,BP-00-0338,120320000004,,Commercial Remodel,INSTALL FURNACE & AC,install furnace & ac,4273,2000
+499,BP-00-0339,146301325010,,Residential Remodel,INSTALL 2 CONDENSERS / RES,install 2 condensers / res,1931,2000
+500,BP-00-0340,120518000001,,Accessory Agricultural Building,POLE BARN,pole barn,11904,2000
+501,BP-00-0342,119725000001,,Commercial Remodel,REROOF/REMODEL MAIN LODGE INTERIOR,reroof / remodel main lodge interior,50000,2000
+502,BP-00-0343,131530014006,,New Residence,SINGLE FAM DWELL / ATT GAR,single fam dwell / att gar,250263,2000
+503,BP-00-0344,131715000027,,Residential Addition,ADD 2ND FLR & ADD TO/REM 1ST FLR,add 2nd flr & add to / rem 1st flr,120000,2000
+504,BP-00-0345,146335308002,,Residential Addition,ADDITION / REMODEL TO COMPLETE 88-1093,addition / remodel to complete 88 - 1093,12000,2000
+505,BP-00-0346,146123002001,,Residential Addition,ENLARGE DECK,enlarge deck,5500,2000
+506,BP-00-9908,,,Accessory Agricultural Building,1992 MODEL ENERGY CODE,1992 model energy code,0,2000
+507,BP-00-0348,131530310003,,Residential Remodel,BASEMENT FINISH,basement finish,22770,2000
+508,BP-00-0349,131531213012,,Residential Remodel,BASEMENT FINISH,basement finish,20000,2000
+509,BP-00-0350,146312302019,,Residential Addition,ENCLOSE ENTRYWAY & BACK PORCH,enclose entryway & back porch,25000,2000
+510,BP-00-0351,131702000017,,Accessory Agricultural Building,METAL BLDG SHELL,metal bldg shell,218240,2000
+511,BP-00-0352,146522003001,,Residential Addition,REM/ADD DECK/REROOF RES:ASPHALT,rem / add deck / reroof res:asphalt,30000,2000
+512,BP-00-0353,146310433003,,Residential Remodel,REPLACE FURNACE,replace furnace,1024,2000
+513,BP-00-0354,157922000001,,Residential Remodel,INSTALL SIDING FOR RESIDENCE,install siding for residence,13499,2000
+514,BP-00-0355,131511000052,,Electrical Service Change,UPGRADE ELEC FOR WOOD PROCESSING EQUIP,upgrade elec for wood processing equip,20000,2000
+515,BP-00-0356,146119000039,,New Residence,SINGLE FAM DWELLING/NO GAR (SPR-99-077),single fam dwelling / no gar ( spr - 99 - 077 ),160000,2000
+516,BP-00-0357,131722207001,,Residential Accessory Building,INSTALL SWIM SPA (EXPIRED-FINAL NOT REQUESTED),install swim spa ( expired - final not requested ),16500,2000
+517,BP-00-0358,146335400021,,Residential Remodel,BOILER REPLACEMENT,boiler replacement,4800,2000
+518,BP-00-0388,146310422014,,Residential Remodel,FURNACE REPLACEMENT,furnace replacement,984,2000
+519,BP-00-0360,,,Electrical Service Change,CATV POWER IN ROW,catv power in row,300,2000
+520,BP-00-0361,158104007008,,Residential Remodel,PARTIAL BASEMENT FINISH,partial basement finish,14000,2000
+521,BP-00-0362,146314002004,,Residential Remodel,FURNACE REPLACEMT,furnace replacemt,1500,2000
+522,BP-00-0363,146501000004,,Electrical Service Change,ELEC TO HORSE BARN (WITHDRAWN),elec to horse barn ( withdrawn ),800,2000
+523,BP-00-0364,146317203002,,Residential Remodel,TEAROFF/REROOF RES/40-YR LAMINATES,tearoff / reroof res / 40 - yr laminates,6105,2000
+524,BP-00-0365,157513406005,,Residential Remodel,TEAROFF/REROOF RES/40-YR LAMINATES,tearoff / reroof res / 40 - yr laminates,3421,2000
+525,BP-00-0366,146507304018,,Residential Remodel,INSTALL FURNACE / RES,install furnace / res,2107,2000
+526,BP-00-0367,131530321017,,Residential Addition,ADD PATIO ROOM TO RES,add patio room to res,19000,2000
+527,BP-00-0368,158105003013,,New Residence,SINGLE FAM DWELLING/NO GARAGE (SPR-00-029),single fam dwelling / no garage ( spr - 00 - 029 ),180000,2000
+528,BP-00-0369,146317402021,,Residential Remodel,REMODEL BATHROOM,remodel bathroom,2500,2000
+529,BP-00-0370,146312302021,,Residential Addition,PATIO COVER OVER COURTYARD,patio cover over courtyard,16800,2000
+530,BP-00-0371,146311202012,,Residential Accessory Building,10 CAR DETACHED GARAGE - 'D',10 car detached garage - 'd',43680,2000
+531,BP-00-0372,146311202012,,Residential Accessory Building,5 CAR DETACHED GARAGE - 'E',5 car detached garage - 'e',21840,2000
+532,BP-00-0373,146311202012,,Residential Accessory Building,10 CAR DETACHED GARAGE - 'F',10 car detached garage - 'f',43680,2000
+533,BP-00-0374,146311202012,,Residential Accessory Building,8 CAR DETACHED GARAGE - 'G',8 car detached garage - 'g',34944,2000
+534,BP-00-0375,146311202012,,Residential Accessory Building,8 CAR DETACHED GARAGE - 'H',8 car detached garage - 'h',34944,2000
+535,BP-00-0376,146311202012,,Residential Accessory Building,5 CAR DETACHED GARAGE - 'I',5 car detached garage - 'i',21840,2000
+536,BP-00-0449,131913001002,,Residential Addition,ADD ENTRY TO RES,add entry to res,7406,2000
+537,BP-00-0377,146311202012,,Residential Accessory Building,5 CAR DETACHED GARAGE - 'J',5 car detached garage - 'j',21840,2000
+538,BP-00-0378,146311202012,,Residential Accessory Building,5 CAR DETACHED GARAGE - 'K',5 car detached garage - 'k',21840,2000
+539,BP-00-0379,146311202012,,Residential Accessory Building,5 CAR DETACHED GARAGE -  'L',5 car detached garage - 'l',21840,2000
+540,BP-00-0380,146311202012,,Residential Remodel,APARTMENT BLDG REMODEL,apartment bldg remodel,436980,2000
+541,BP-00-0381,146311202012,,Residential Remodel,APARTMENT BLDG REMODEL,apartment bldg remodel,407848,2000
+542,BP-00-0382,146123003001,,Residential Addition,3RD STORY ADDITION / RES,3rd story addition / res,100000,2000
+543,BP-00-0383,146115000013,,Residential Addition,ADD ELEVATOR & SHAFT TO RES,add elevator & shaft to res,16750,2000
+544,BP-00-0384,132122009003,,New Residence,SINGLE FAM DWELLING/ATT GAR(MODULAR)(EXPIRED BY JEFF-1-29-01),single fam dwelling / att gar ( modular ) ( expired by jeff - 1 - 29 - 01 ),0,2000
+545,BP-00-0385,146102003005,,New Residence,SINGLE FAM DWELL / ATT GAR (SPR-99-059),single fam dwell / att gar ( spr - 99 - 059 ),375000,2000
+546,BP-00-0386,131736119001,,Residential Addition,ADD 3RD BAY & 2ND FLR TO ATT GAR,add 3rd bay & 2nd flr to att gar,54284,2000
+547,BP-00-0387,131728000021,,Residential Accessory Building,INGROUND SWIMMING POOL & SPA,inground swimming pool & spa,25000,2000
+548,BP-00-9910,,,Accessory Agricultural Building,1997 UWIC,1997 uwic,0,2000
+549,BP-00-0389,132133000085,,New Residence,REMOVE 2 ROOMS &ENTRANCE COVER FROM CABIN(WITHDRAWN-4/25/05),remove 2 rooms & entrance cover from cabin ( withdrawn - 4 / 25 / 05 ),0,2000
+550,BP-00-0390,132133000085,,Commercial Remodel,REPAIR LODGE FLOOR,repair lodge floor,200,2000
+551,BP-00-0391,132133000085,,Residential Remodel,GAS STOVES/REPAIR SAUNA& ELEC/REPLACE STUDS&SIDING (EXPIRED),gas stoves / repair sauna & elec / replace studs & siding ( expired ),2000,2000
+552,BP-00-0392,132133000085,,Commercial Remodel,REPLACE GAS HTR IN ACTIVITY CENTER,replace gas htr in activity center,300,2000
+553,BP-00-0393,132133000085,,Residential Remodel,REPLACE HT WTR HEATER/REMOVE MECH CLOSET,replace ht wtr heater / remove mech closet,500,2000
+554,BP-14-0071,,,Residential Remodel,RE-ROOF,re - roof,3457,2000
+555,BP-00-0394,120519000029,,Residential Addition,ADD STORAGE TO POLE BARN,add storage to pole barn,18000,2000
+556,BP-00-0395,146312411012,,Residential Addition,PATIO ENCLOSURE,patio enclosure,20422,2000
+557,BP-00-0396,119725000001,,Commercial Remodel,REMOD INTERIOR & ENCLOSE PORCH- WITHDRAWN BY OWNER 4/15/2003-DRS,remod interior & enclose porch - withdrawn by owner 4 / 15 / 2003 - drs,35000,2000
+558,BP-00-0397,146113100012,,Moved in Residence,MOVED IN MOBILE HOME,moved in mobile home,1000,2000
+559,BP-00-0398,131526003007,,Residential Addition,INCREASE MSTR BDRM & SOLARIUM,increase mstr bdrm & solarium,23800,2000
+560,BP-00-0399,131529301010,,Residential Remodel,BATH REMODEL / ELEC. UPGRADE,bath remodel / elec . upgrade,4600,2000
+561,BP-00-0400,158106000012,,Residential Accessory Building,PIPELINE,pipeline,150000,2000
+562,BP-00-0401,131529001003,,New Residence,SINGLE FAM DWELL / ATT GAR,single fam dwell / att gar,650000,2000
+563,BP-00-0402,146310433007,,Residential Remodel,INSTALL FURNACE AND HOT WATER HEATER (EXPIRED ON 03-07-2005),install furnace and hot water heater ( expired on 03 - 07 - 2005 ),1404,2000
+564,BP-00-0403,131732307001,,Residential Remodel,BASEMENT FINISH,basement finish,16000,2000
+565,BP-00-0404,131530014006,,Residential Remodel,BASEMENT FINISH - WITHDRAWN - ISSUED WITH 00-343,basement finish - withdrawn - issued with 00 - 343,0,2000
+566,BP-00-0497,146515016001,,Accessory Agricultural Building,BOATHOUSE,boathouse,87763,2000
+567,BP-00-0405,131530014008,,Residential Remodel,BASEMENT FINISH / WITHDRAWN 3-22-00 WORK DONE ON 00-234,basement finish / withdrawn 3 - 22 - 00 work done on 00 - 234,0,2000
+568,BP-00-0406,131530014007,,Residential Remodel,BASEMENT FINISH / WITHDRAWN 3-22-00 WORK DONE ON 00-195,basement finish / withdrawn 3 - 22 - 00 work done on 00 - 195,0,2000
+569,BP-00-0407,131530014005,,Residential Remodel,BASEMENT FINISH / WITHDRAWN 3-22-00 WORK DONE ON 00-184,basement finish / withdrawn 3 - 22 - 00 work done on 00 - 184,0,2000
+570,BP-00-0408,158320007002,,Residential Remodel,REMOD GUEST RES/ADD CANOPY @ ENTRY,remod guest res / add canopy @ entry,10000,2000
+571,BP-00-0409,158106000012,,Grading,GRADING FOR PIPELINE,grading for pipeline,0,2000
+572,BP-00-0410,146325000043,,Electrical Service Change,ELEC FOR DRIVEWAY GATE,elec for driveway gate,500,2000
+573,BP-00-0411,146514010004,,Residential Accessory Building,DETACHED GARAGE,detached garage,12813,2000
+574,BP-00-0412,131924007010,,Residential Addition,DECK (BWOP),deck ( bwop ),9635,2000
+575,BP-00-0413,120522306014,,Residential Addition,ADD PATIO COVER TO RESIDENCE,add patio cover to residence,6000,2000
+576,BP-00-0414,131732307020,,Residential Remodel,INSTALL 2 A/C UNITS (EXPIRED-NO FINAL REQUESTED-4/1/05),install 2 a / c units ( expired - no final requested - 4 / 1 / 05 ),3659,2000
+577,BP-00-0415,157701406006,,Residential Remodel,BASEMENT FINISH / GAME ROOM(EXPIRED-FINAL NOT REQUESTED-8/4/03),basement finish / game room ( expired - final not requested - 8 / 4 / 03 ),13440,2000
+578,BP-00-0574,,,Grading,CATV IN ROW,catv in row,390,2000
+579,BP-00-0416,146314004004,,Residential Remodel,TEAR-OFF/REROOF RES/30-YR TAMKO,tear - off / reroof res / 30 - yr tamko,4500,2000
+580,BP-00-0417,120518000001,,Residential Addition,ADD PORCH,add porch,3125,2000
+581,BP-00-0418,146515003005,,Electrical Service Change,ELECTRIC TO LIFT STATION,electric to lift station,300,2000
+582,BP-00-0419,146313215016,,Residential Remodel,PARTIAL BASEMENT FINISH,partial basement finish,9000,2000
+583,BP-00-0420,131531214002,,Residential Remodel,BASEMENT FINISH,basement finish,20000,2000
+584,BP-00-0421,146312302039,,Residential Addition,ADD 2ND FLR/WINDOWSEAT @ 1ST FLR,add 2nd flr / windowseat @ 1st flr,110000,2000
+585,BP-00-0422,158313240026,,New Residence,SINGLE FAM DWELLING/ATT GAR,single fam dwelling / att gar,161862,2000
+586,BP-00-0423,131530012004,,Residential Remodel,PARTIAL BASEMENT FINISH,partial basement finish,26000,2000
+587,BP-00-0424,146123011015,,Residential Addition,ADDITION/KITCHEN DECK,addition / kitchen deck,24000,2000
+588,BP-00-0425,146514016012,,Residential Accessory Building,DETACHED GAR / 2 STORY / OFFICE ABOVE,detached gar / 2 story / office above,48128,2000
+589,BP-00-0426,146532010021,,New Residence,SINGLE FAM DWELLING/ATT GAR,single fam dwelling / att gar,390000,2000
+590,BP-15-0069,,,Electrical Service Change,CAT POWER SUPPLY,cat power supply,0,2000
+591,BP-00-0427,131525000004,,New Residence,BUILD RES AFTER FIRE BURNED TO FDN,build res after fire burned to fdn,282754,2000
+592,BP-00-0428,146114012003,,Residential Addition,DECK,deck,750,2000
+593,BP-00-0429,146114012003,,Residential Accessory Building,INGROUND POOL,inground pool,50000,2000
+594,BP-00-0430,146105000056,,Residential Addition,ADD HOTTUB RM/ATT GAR TO RES/INT REM,add hottub rm / att gar to res / int rem,50000,2000
+595,BP-00-0431,146302405005,,Residential Remodel,BASEMENT FINISH,basement finish,20000,2000
+596,Levy & Haines,146307000038,,Building Lot Determination,BLOTNOT,blotnot,0,2001
+597,BP-00-0432,158313100019,,Commercial Addition,CHURCH ADDITION - FINAL INSPECTION COMPLETED ON 6/26/01 BY P.D.,church addition - final inspection completed on 6 / 26 / 01 by p . d .,174447,2000
+598,BP-00-0433,131525000004,,New Residence,DEMO RESIDENCE TO FOUNDATION LEVEL,demo residence to foundation level,0,2000
+599,BP-00-0434,131702005003,,New Residence,SINGLE FAM DWELLING/ATT GAR,single fam dwelling / att gar,187737,2000
+600,BP-00-0435,146314002002,,Residential Remodel,INTERIOR REMODEL/EGRESS IN BSMT,interior remodel / egress in bsmt,25000,2000
+601,BP-00-0436,146114026005,,Electrical Service Change,UPGRADE ELEC TO 150 AMP,upgrade elec to 150 amp,600,2000
+602,BP-00-0437,146301314024,,Residential Remodel,INSTALL FURNACE-A/C-HUMIDIFIER,install furnace - a / c - humidifier,3140,2000
+603,BP-00-0438,157701200005,,Residential Remodel,INSTALL 2 FURNACES  / 2 HUMIDIFIERS,install 2 furnaces / 2 humidifiers,2805,2000
+604,BP-00-0439,119702000043,,Residential Addition,ADDITION TO RES,addition to res,67222,2000
+605,BP-00-0440,146309007002,,Residential Addition,ADD DECK TO RES (EXPIRED ON 01-15-04),add deck to res ( expired on 01 - 15 - 04 ),9500,2000
+606,BP-00-0441,146510000036,,Residential Remodel,FURNACE AND A/C CHANGE OUT,furnace and a / c change out,3316,2000
+607,BP-00-0442,131525000013,,Accessory Agricultural Building,BARN ADDITION,barn addition,15000,2000
+608,BP-00-0448,131734000026,,Residential Addition,ADD SOLARIUM TO SWIM POOL RM,add solarium to swim pool rm,250000,2000
+609,BP-00-0443,120522305002,,Residential Addition,ADD ATT. GAR. TO RESIDENCE,add att . gar . to residence,18018,2000
+610,BP-00-0444,131523000004,,Residential Remodel,ENCLOSE PATIO FOR SUNROOM,enclose patio for sunroom,12475,2000
+611,BP-00-0445,146312411012,,Electrical Service Change,RELOCATE ELEC METER,relocate elec meter,1000,2000
+612,BP-00-0446,119900000021,,New Residence,REBUILD RESIDENCE/ATT GAR AFTER FIRE (EXPIRED ON 08-27-2004 PER JEFF),rebuild residence / att gar after fire ( expired on 08 - 27 - 2004 per jeff ),80000,2000
+613,BP-00-0447,131722202001,,Residential Remodel,INSTALL FURNACE/HW HTR/AIR CONDIT.(2),install furnace / hw htr / air condit . ( 2 ),21000,2000
+614,BP-11-0771,,,Residential Accessory Building,,,0,2001
+615,BP-00-0450,158136101016,,New Residence,SINGLE FAM DWELLING/ATT GAR (SPR-99-016),single fam dwelling / att gar ( spr - 99 - 016 ),323000,2000
+616,BP-00-0451,146335211002,,Residential Addition,"ADD TO 1ST, 2ND STORY/ENCLOSE PORCH","add to 1st , 2nd story / enclose porch",149073,2000
+617,BP-00-0452,157926400002,,Residential Remodel,COMPLETE UNFIN.BDRM& DECK(SEE BP-97-445),complete unfin . bdrm & deck ( see bp - 97 - 445 ),20236,2000
+618,BP-00-0453,131532217013,,Residential Remodel,TEAR OFF/REROOF RES/35 YR DIM,tear off / reroof res / 35 yr dim,4925,2000
+619,BP-00-0454,146314209008,,Residential Accessory Building,FULL TEAR OFF /REROOF 35YR GENSTAR GTA,full tear off / reroof 35yr genstar gta,650,2000
+620,BP-01-5017,,,Grading,GRADING WITH OUT PERMIT,grading with out permit,0,2001
+621,BP-00-0455,146335300003,,Electrical Service Change,ELECT SERVICE CHANGE,elect service change,1275,2000
+622,BP-00-0456,146335304007,,Electrical Service Change,ELECT SERVICE CHANGE,elect service change,1275,2000
+623,BP-00-0457,146335300002,,Electrical Service Change,ELECT SERVICE CHANGE,elect service change,1585,2000
+624,BP-00-0458,146301315032,,Residential Addition,ADD DECK TO EXISTING DECK,add deck to existing deck,0,2000
+625,BP-00-0459,158122000022,,New Residence,SINGLE FAM DWELLING/ATT GAR (SPR-99-220),single fam dwelling / att gar ( spr - 99 - 220 ),240000,2000
+626,BP-00-0466,131736019002,,Manufactured Home,MOVED IN CONSTRUCTION TRAILER,moved in construction trailer,200,2000
+627,BP-00-0460,131532004003,,New Residence,SINGLE FAM DWELL / ATT GAR(PERMIT WITHDRAWN BY OWNER 03/29/2001 SM),single fam dwell / att gar ( permit withdrawn by owner 03 / 29 / 2001 sm ),1050000,2000
+628,BP-00-0461,146126000005,,Residential Remodel,REPLACE FURNACE & NEW A/C,replace furnace & new a / c,3111,2000
+629,BP-00-0462,131531218021,,Residential Remodel,INSTALL A/C,install a / c,2888,2000
+630,BP-00-0463,146335200007,,Grading,GRADING SOMBRERO RANCH WETLANDS,grading sombrero ranch wetlands,0,2000
+631,BP-00-0464,146312414005,,Residential Remodel,INSTALL VENTLESS GAS LOGS,install ventless gas logs,718,2000
+632,BP-00-0465,146333100002,,Unlighted Free-standing Sign,REPLACE SIGN,replace sign,1900,2000
+633,BP-00-0467,131736019002,,Manufactured Home,MOVED IN CONSTRUCTION TRAILER,moved in construction trailer,200,2000
+634,BP-00-0468,131531107011,,Residential Remodel,BASEMENT FINISH,basement finish,42000,2000
+635,BP-00-0469,146335202001,,Residential Remodel,TEAROFF/REROOF RES/LAMIN.SHINGLES,tearoff / reroof res / lamin . shingles,6012,2000
+636,BP-00-0470,146317203003,,Residential Addition,ADD TO RES,add to res,95000,2000
+637,BP-00-0471,146120000118,,Residential Accessory Building,SWIMMING POOL,swimming pool,25000,2000
+638,BP-00-0472,157701103001,,Residential Remodel,KITCHEN REMODEL / CABINETS / COUNTER,kitchen remodel / cabinets / counter,5000,2000
+639,BP-00-0473,120530000028,,Unlighted Free-standing Sign,SIGN FOR HERITAGE CENTER,sign for heritage center,2000,2000
+640,BP-00-0474,146114010013,,Residential Addition,ADD TO RES,add to res,144000,2000
+641,BP-00-0475,146312412009,,Residential Remodel,INSTALL WATER HEATER,install water heater,579,2000
+642,BP-00-0476,131531003001,,Residential Addition,ADD BEDRM& BATH TO RES,add bedrm & bath to res,50000,2000
+643,BP-00-0477,157904002002,,Residential Addition,ADD GAR/BDRM/BATH/WKSHP,add gar / bdrm / bath / wkshp,132000,2000
+644,BP-00-0478,131726311011,,Residential Remodel,REROOF RES/ASPHALT SHINGLES,reroof res / asphalt shingles,4100,2000
+645,BP-00-0479,131913002024,,Residential Addition,ADD OFFICE/SITTING RM/PORCH,add office / sitting rm / porch,30000,2000
+646,BP-00-0480,131900000043,,New Residence,SINGLE FAM DWELLING/ATT GAR,single fam dwelling / att gar,89800,2000
+647,BP-00-0481,158122000009,,New Residence,SINGLE FAM DWELLING/ATT GAR (SPR-99-214),single fam dwelling / att gar ( spr - 99 - 214 ),250000,2000
+648,BP-00-0482,145911000018,,Residential Addition,ADDING SQFT TO BP 99-735 / SINGLE FAM DWELL / ATT GAR,adding sqft to bp 99 - 735 / single fam dwell / att gar,9500,2000
+649,BP-00-0483,,,Electrical Service Change,GENERATOR *WITHDRAWN-CITY OF BLDR*,generator *withdrawn - city of bldr*,12000,2000
+650,BP-00-0484,146134000008,,Grading,GRADING OF SEDIMENTATION BASINS FOR WATER TREATMENT PLANT,grading of sedimentation basins for water treatment plant,0,2000
+651,BP-00-0485,120520008002,,New Residence,SINGLE FAM DWELLING/ATT GAR  EXPIRED 12/27/00,single fam dwelling / att gar expired 12 / 27 / 00,0,2000
+652,BP-00-0486,158313308004,,Commercial Remodel,PARTITION WALLS @ TENANT FINISH OFFICES,partition walls @ tenant finish offices,3000,2000
+653,BP-00-0487,131736108001,,Residential Remodel,TEAROFF/REROOF RES/25-YR LOKS,tearoff / reroof res / 25 - yr loks,2112,2000
+654,BP-00-0488,131736104007,,Residential Remodel,TEAROFF/REROOF RES/25-YR TLOKS,tearoff / reroof res / 25 - yr tloks,2331,2000
+655,BP-00-0489,120100000073,,Accessory Agricultural Building,POLE BARN,pole barn,22376,2000
+656,BP-00-0490,158107000038,,Residential Addition,ADDITION TO RES,addition to res,48986,2000
+657,BP-00-0491,146301315027,,Residential Remodel,INSTALL 3TON A/C,install 3ton a / c,3177,2000
+658,BP-00-0492,158313241004,,New Residence,SINGLE FAM DWELLING/ATT GAR,single fam dwelling / att gar,106380,2000
+659,BP-00-0493,131528206001,,Residential Remodel,INSTALL GAS HEAT SYSTEM,install gas heat system,4000,2000
+660,BP-00-0494,146306002001,,Residential Remodel,INSTALL 2 UNIT HEATERS,install 2 unit heaters,2589,2000
+661,BP-00-0495,131732001003,,Residential Addition,DEMO & REBUILD LARGER DECK,demo & rebuild larger deck,3100,2000
+662,BP-00-0496,146515016001,,New Residence,SINGLE FAMILY DWELLING/ATT GAR,single family dwelling / att gar,215085,2000
+663,BP-00-0498,131530322005,,Residential Remodel,FULL TEAR OFF AND REROOF/40 YEAR FIBERGLASS,full tear off and reroof / 40 year fiberglass,2689,2000
+664,BP-00-0499,131736013002,,Residential Remodel,PARTITIONS IN TENANT FINISH (HELIX TECH),partitions in tenant finish ( helix tech ),1000,2000
+665,BP-00-0500,146301301005,,Residential Remodel,REPLACE FURNACE / NEW A/C,replace furnace / new a / c,5200,2000
+666,BP-00-0501,157505002003,,Residential Remodel,INSTALL 4-TON AC UNIT,install 4 - ton ac unit,1270,2000
+667,BP-00-0502,146310438004,,Residential Remodel,BASEMENT FINISH,basement finish,5046,2000
+668,BP-00-0503,157701306012,,Residential Accessory Building,DETACHED 3-CAR GARAGE,detached 3 - car garage,24242,2000
+669,BP-00-0504,131530321011,,Residential Remodel,TEAROFF/REROOF RES/30-YR DIM,tearoff / reroof res / 30 - yr dim,2250,2000
+670,BP-00-0505,146301306005,,Residential Remodel,FURNACE,furnace,2325,2000
+671,BP-00-0506,131530014011,,Electrical Service Change,ELEC SERVICE FOR TV CABINET,elec service for tv cabinet,430,2000
+672,BP-00-0507,146318404005,,Residential Addition,ADD 2ND FLR/DECK TO ATT GAR,add 2nd flr / deck to att gar,100000,2000
+673,BP-00-0508,146312213004,,Residential Remodel,INSTALL A/C & REPLACE DHW - FINAL INSPECTION COMPLETED ON 1/29/02 BY J.H.,install a / c & replace dhw - final inspection completed on 1 / 29 / 02 by j . h .,2200,2000
+674,BP-00-0509,146310471013,,Residential Remodel,INSTALL A/C,install a / c,2475,2000
+675,BP-00-0510,131912001001,,Residential Addition,INCREASE KITCHEN AND MSTR BATH AREAS,increase kitchen and mstr bath areas,165000,2000
+676,BP-00-0511,146313210002,,Residential Remodel,INSTALL DOOR IN GARAGE,install door in garage,250,2000
+677,BP-00-0512,131530305008,,Residential Remodel,TEAROFF/REROOF TWNHSES/30-YR FBRGLS,tearoff / reroof twnhses / 30 - yr fbrgls,7800,2000
+678,BP-00-0513,146123009010,,Residential Remodel,FIREPLACE(EXPIRED-FINAL NOT REQUESTED),fireplace ( expired - final not requested ),5500,2000
+679,BP-00-0514,131531222001,,Unlighted Free-standing Sign,TEMP SIGN  / NO UTILITIES  EXPIRED 12/27/00,temp sign / no utilities expired 12 / 27 / 00,100,2000
+680,BP-00-0515,146315203007,,Residential Addition,ADD SUNROOM TO RES,add sunroom to res,20000,2000
+681,BP-00-0516,146334400034,,Electrical Service Change,RELOCATE METER/NEW SUBPANEL,relocate meter / new subpanel,500,2000
+682,BP-00-0517,157504004001,,Residential Remodel,REPLACE WATER HTR,replace water htr,579,2000
+683,BP-00-0518,131732306013,,Residential Remodel,REPLACE 2 WATER HEATERS,replace 2 water heaters,1358,2000
+684,BP-00-0519,146334100033,,Electrical Service Change,UPGRADE ELECTRIC SERVICE(EXPIRED-FINAL NOT REQUESTED),upgrade electric service ( expired - final not requested ),500,2000
+685,BP-00-0520,131919002018,,Electrical Service Change,ELECT. TO LIFT STATION ON SEPTIC,elect . to lift station on septic,300,2000
+686,BP-00-0521,146317402019,,Residential Remodel,"BSMT REMODEL:ADD BATH, ETC","bsmt remodel:add bath , etc",11136,2000
+687,BP-00-0522,146124203014,,Residential Addition,2-STORY ADDITION/REMODEL RES,2 - story addition / remodel res,90000,2000
+688,BP-00-0523,131522002007,,Grading,COVER ON BOAT DOCK,cover on boat dock,4762,2000
+689,BP-00-0524,131703003005,,Residential Addition,KITCHEN ADDITION,kitchen addition,35000,2000
+690,BP-00-0525,146507306014,,Residential Remodel,REPLACE FURNACE 90000BTU,replace furnace 90000btu,2106,2000
+691,BP-00-0526,146310438004,,Residential Remodel,UPGRADE AC(EXPIRED-NO FINAL REQUESTED-3-28-05),upgrade ac ( expired - no final requested - 3 - 28 - 05 ),2250,2000
+692,BP-00-0527,146312302023,,Residential Remodel,FURNACE REPLACEMENT,furnace replacement,2375,2000
+693,BP-00-0528,131729000008,,Moved in Residence,SINGLE FAM DWELLING/ATT GAR,single fam dwelling / att gar,133430,2000
+694,BP-00-0529,146312311009,,Residential Remodel,REMODEL KITCHEN,remodel kitchen,20000,2000
+695,BP-00-0530,157505000026,,New Residence,SINGLE FAM DWELLING/ATT GAR,single fam dwelling / att gar,585000,2000
+696,BP-00-0531,146315104029,,Residential Addition,DECK & 2ND STORY ADDITION TO SINGLE FAM DWELLING,deck & 2nd story addition to single fam dwelling,50000,2000
+697,BP-00-0532,131531004012,,Residential Remodel,REM GAR TO LIVING SPACE/STRG BELOW,rem gar to living space / strg below,40000,2000
+698,BP-00-0575,,,Grading,CATV IN ROW,catv in row,390,2000
+699,BP-00-0533,146307000069,,Moved In Commercial Building,MOVED IN FIREWORKS STAND W/SIGN,moved in fireworks stand w / sign,0,2000
+700,BP-00-0534,158311000013,,Residential Remodel,PARTIAL BASEMENT FINISH,partial basement finish,8074,2000
+701,BP-00-0535,146113100012,,Moved in Residence,MOBILE HOME,mobile home,600,2000
+702,BP-00-0536,131732305002,,Residential Remodel,INSTALL A/C,install a / c,5916,2000
+703,BP-00-0537,146312208017,,Residential Remodel,INSTALL A/C & REPLACE FURNACE,install a / c & replace furnace,2329,2000
+704,BP-00-0538,120519006004,,New Residence,SINGLE FAM DWELL / ATT GAR (EXPIRED ON 03-12-04),single fam dwell / att gar ( expired on 03 - 12 - 04 ),800000,2000
+705,BP-00-0539,131511000014,,Residential Remodel,ELECT SERVICE REPAIR,elect service repair,1200,2000
+706,BP-00-0540,131736107001,,Residential Remodel,90BTU FURNACE / 2 TON AC UNIT,90btu furnace / 2 ton ac unit,3400,2000
+707,BP-00-0541,157505002003,,Residential Remodel,4-TON AC UNIT  / ELECTRICAL,4 - ton ac unit / electrical,1270,2000
+708,BP-00-0542,146312415013,,Residential Remodel,3 TON CONDENSER / 125000 BTU FURNACE,3 ton condenser / 125000 btu furnace,1604,2000
+709,BP-00-0543,120520404002,,Residential Remodel,100000BTU FURNACE / 3 TON AC UNIT (EXPIRED 02-21-03),100000btu furnace / 3 ton ac unit ( expired 02 - 21 - 03 ),3898,2000
+710,BP-00-0576,,,Grading,CATV IN ROW,catv in row,390,2000
+711,BP-00-0544,146312413003,,Residential Remodel,TEAR OFF AND REROOF 2443SQFT 20 YR DIM. SHINGLES,tear off and reroof 2443sqft 20 yr dim . shingles,1570,2000
+712,BP-00-0545,146515007010,,Residential Remodel,UPGRADE ELECTRICAL,upgrade electrical,500,2000
+713,BP-00-0546,146312302030,,Residential Remodel,TEAROFF/REROOF RES/EPDM ROOF,tearoff / reroof res / epdm roof,6336,2000
+714,BP-00-0547,131702001017,,Electrical Service Change,ELECTRIC TO EXISTING BARN,electric to existing barn,1500,2000
+715,BP-00-0548,146532100004,,Commercial Remodel,REROOF CHIC/MILKHSE;REMOD&REROOF BARN,reroof chic / milkhse;remod & reroof barn,20000,2000
+716,BP-00-0549,146314002017,,Residential Remodel,INSTALL NEW FURNACE,install new furnace,4800,2000
+717,BP-00-0550,157932009001,,New Residence,SINGLE FAM DWELL / ATT GAR,single fam dwell / att gar,198975,2000
+718,BP-00-0551,131924000012,,Residential Addition,ADD ENTRY/REPLACE DECK,add entry / replace deck,9000,2000
+719,BP-00-0552,131736009001,,Commercial Remodel,12-TON AC UNIT INSTALLED,12 - ton ac unit installed,20548,2000
+720,BP-00-0553,146309007002,,Residential Accessory Building,HOT TUB ON DECK,hot tub on deck,7500,2000
+721,BP-00-0554,131530323019,,Residential Addition,COVERED PORCH ADDITION,covered porch addition,4000,2000
+722,BP-00-0555,145919000044,,Residential Remodel,TEAROFF/REROOF RES/METAL SHINGLES,tearoff / reroof res / metal shingles,2884,2000
+723,BP-00-0556,146312245001,,Residential Remodel,REPLACE BOILER FOR TOWNHOMES,replace boiler for townhomes,6000,2000
+724,BP-00-0557,146503000009,,Residential Addition,ADDITION TO RES,addition to res,86000,2000
+725,BP-00-0558,157701306005,,Electrical Service Change,ELECT. TO LIFT STATION / SEPTIC,elect . to lift station / septic,1550,2000
+726,BP-00-0559,146108000080,,Residential Accessory Building,DETACHED GARAGE/STORAGE (PERMIT EXPIRED 01/23/2001 SM),detached garage / storage ( permit expired 01 / 23 / 2001 sm ),0,2000
+727,BP-00-0560,120522304005,,Residential Remodel,TEAR OFF/REROOF COMP.,tear off / reroof comp .,3650,2000
+728,BP-00-0561,131510047004,,Commercial Addition,REMODEL DEWATERING & MECHANICAL BUILDING,remodel dewatering & mechanical building,1500000,2000
+729,BP-00-0562,131510047004,,Commercial Addition,REMODEL DIGESTERS & ADDITION OF FOAM SEPARATOR,remodel digesters & addition of foam separator,1500000,2000
+730,BP-00-0563,131510047004,,New Commercial Building,REMODEL SLUDGE CONTROL BLDG. & ADD GAS CONDITIONER,remodel sludge control bldg . & add gas conditioner,1000000,2000
+731,BP-00-0564,131924008003,,Residential Remodel,TEAR OFF /REROOF 40 YR TAMKO,tear off / reroof 40 yr tamko,6321,2000
+732,BP-00-0565,131713003003,,Residential Remodel,TEAR OFF / REROOF 40 YR TAMKO SHINGLES,tear off / reroof 40 yr tamko shingles,8740,2000
+733,BP-00-0566,145936000049,,New Residence,SINGLE FAM DWELLING/ATT GAR BELOW (SPR-99-116),single fam dwelling / att gar below ( spr - 99 - 116 ),165000,2000
+734,BP-00-0567,158313305004,,Commercial Remodel,INTERIOR REMODEL,interior remodel,4500,2000
+735,BP-00-0568,146507310019,,Residential Remodel,INSTALL A/C,install a / c,3597,2000
+736,BP-00-0569,120520008005,,Residential Remodel,INSTALL 2 AC UNITS 30000&36000 BTU (WITHDRAWN),install 2 ac units 30000 & 36000 btu ( withdrawn ),1983,2000
+737,BP-00-0570,131708000010,,Accessory Agricultural Building,POLE BARN/INDOOR ARENA,pole barn / indoor arena,216380,2000
+738,BP-00-0571,157712202010,,Residential Remodel,INSTALL 3 1/3 TON AC / 50 GAL WATER HEATER,install 3 1 / 3 ton ac / 50 gal water heater,6600,2000
+739,BP-00-0572,131913003021,,Residential Remodel,REPLACE WATER HEATER,replace water heater,679,2000
+740,BP-00-0573,131732301016,,Residential Remodel,NATURAL GAS FIREPLACE IN BASEMENT,natural gas fireplace in basement,1500,2000
+741,BP-00-0579,,,Grading,CATV IN ROW,catv in row,390,2000
+742,BP-00-0580,,,Grading,CATV IN ROW,catv in row,390,2000
+743,BP-00-0581,,,Grading,CATV IN ROW,catv in row,390,2000
+744,BP-00-0582,,,Grading,CATV IN ROW,catv in row,390,2000
+745,BP-00-0583,146313104007,,Residential Addition,DEMO COVERED DECK,demo covered deck,200,2000
+746,BP-00-0584,131531213006,,Residential Remodel,GAS FUEL LINE/METER TO HOUSE,gas fuel line / meter to house,500,2000
+747,BP-00-0585,131531222001,,Commercial Remodel,TENANT FINISH / STUFFBAK COMPANY,tenant finish / stuffbak company,45000,2000
+748,BP-00-0586,158107000038,,Electrical Service Change,ELECTRIC METER,electric meter,400,2000
+749,BP-00-0587,146312404006,,Residential Addition,ADD DECK,add deck,3800,2000
+750,BP-00-0588,131736112005,,Residential Remodel,PARTIAL BASEMENT FINISH,partial basement finish,25000,2000
+751,BP-00-0589,131900001001,,Residential Addition,ADD SPA RM TO RES,add spa rm to res,36000,2000
+752,BP-00-0590,131900001001,,Residential Remodel,INSTALL HOT TUB,install hot tub,7000,2000
+753,BP-00-0591,120325000051,,Electrical Service Change,UPGRADE ELECTRICAL,upgrade electrical,3000,2000
+754,BP-00-0592,158119000012,,Accessory Agricultural Building,ARCH RIDING ARENA (PERMIT APP EXPIRED 01/23/2001 SM),arch riding arena ( permit app expired 01 / 23 / 2001 sm ),15000,2000
+755,BP-00-0593,146311202012,,Residential Remodel,APARTMENT REMODEL,apartment remodel,436980,2000
+756,BP-00-0594,146311202012,,Residential Remodel,APARTMENT REMODEL,apartment remodel,349584,2000
+757,BP-00-0595,146311202012,,Residential Remodel,APARTMENT REMODEL,apartment remodel,291320,2000
+758,BP-00-0596,120330004001,,Residential Remodel,BASEMENT FINISH -EXPIRED PER JEFF 8/20/2004-DRS,basement finish - expired per jeff 8 / 20 / 2004 - drs,8665,2000
+759,BP-00-0597,158118015001,,Residential Remodel,INSTALL GAS LINE AND FIREPLACE,install gas line and fireplace,500,2000
+760,BP-00-0598,131732001054,,Residential Remodel,BASEMENT FINISH,basement finish,9640,2000
+761,BP-00-0599,158101000012,,Accessory Agricultural Building,9 X 12 SHED BWOP,9 x 12 shed bwop,2668,2000
+762,BP-00-0600,120520006008,,New Residence,SINGLE FAM DWELLING/ATT GAR,single fam dwelling / att gar,500000,2000
+763,BP-00-0601,158101000012,,Accessory Agricultural Building,TACK SHED,tack shed,1123,2000
+764,BP-00-0623,131530300011,,Residential Remodel,INSTALL A/C,install a / c,1879,2000
+765,BP-00-0602,158101000012,,Accessory Agricultural Building,GREENHOUSE,greenhouse,2000,2000
+766,BP-00-0603,158101000012,,Accessory Agricultural Building,3 SHEDS ONE PERMIT BWOP,3 sheds one permit bwop,4212,2000
+767,BP-00-0604,158101000012,,Accessory Agricultural Building,2 UTILITY SHELTERS BWOP ONE PERMIT,2 utility shelters bwop one permit,5952,2000
+768,BP-00-0605,119726001003,,New Residence,SINGLE FAM DWELLING/ATT GAR (SPR-99-101),single fam dwelling / att gar ( spr - 99 - 101 ),315536,2000
+769,BP-00-0606,146335400012,,Residential Remodel,TEAR OFF SHAKES / REROOF BITUMEN,tear off shakes / reroof bitumen,990,2000
+770,BP-00-0637,131528001001,,Residential Addition,EXTERIOR STAIRWELL,exterior stairwell,5000,2000
+771,BP-00-0607,146508002006,,Residential Remodel,REROOF RES/DECRA STONE-COATED,reroof res / decra stone - coated,20280,2000
+772,BP-00-0608,131926002010,,Residential Addition,INT REM-ADD BKFST NOOK-ADD TO MBR,int rem - add bkfst nook - add to mbr,60000,2000
+773,BP-00-0609,131732308070,,Residential Remodel,BASEMENT FINISH,basement finish,18000,2000
+774,BP-00-0610,158313201006,,Residential Addition,ADD ENTRY TO RESIDENCE,add entry to residence,6000,2000
+775,BP-00-0611,146127004003,,Residential Remodel,TEAR OFF & REROOF 30 YR LAMINATES,tear off & reroof 30 yr laminates,4393,2000
+776,BP-01-5032,,,Residential Addition,DECK/COVER,deck / cover,0,2001
+777,BP-00-0612,157712300003,,Residential Remodel,INSTALL A/C,install a / c,1611,2000
+778,BP-00-0613,158118012011,,Residential Remodel,TEAR OFF / REROOF 30YR 3 TAB DIMENSIONAL SHINGLES,tear off / reroof 30yr 3 tab dimensional shingles,3988,2000
+779,BP-00-0614,120518000001,,Residential Remodel,"NEW 1"" GAS LINE","new 1"" gas line",225,2000
+780,BP-00-0615,146533100010,,Residential Remodel,TEAR OFF / REROOF CLASA DIMENSIONAL SHINGLES,tear off / reroof clasa dimensional shingles,6692,2000
+781,BP-00-0616,146336006011,,Residential Remodel,DEMO WALL/REMODEL KITCHEN,demo wall / remodel kitchen,10000,2000
+782,BP-00-0624,146314215013,,Residential Remodel,INSTALL FURNACE & A/C,install furnace & a / c,4000,2000
+783,BP-00-0617,157932001002,,New Residence,SINGLE FAM DWELLING/NO GAR (SPR-00-032),single fam dwelling / no gar ( spr - 00 - 032 ),60000,2000
+784,BP-00-0618,157932001002,,Accessory Agricultural Building,SHOP/STORAGE,shop / storage,25000,2000
+785,BP-00-0619,158313207003,,Residential Addition,ADDITION TO SINGLE FAM DWELLING,addition to single fam dwelling,29186,2000
+786,BP-00-0620,146509302004,,Residential Addition,ADDITION TO RES,addition to res,150000,2000
+787,BP-00-0621,131532216050,,Residential Addition,ADD BAY WINDOW/REMODEL KITCHEN,add bay window / remodel kitchen,35000,2000
+788,BP-00-0622,146317201010,,Residential Remodel,BASEMENT FINISH/2ND STORY DECK,basement finish / 2nd story deck,11101,2000
+789,BP-00-0625,146116000019,,Residential Remodel,FINISH BATHRM IN UNFINISHED BASEMENT,finish bathrm in unfinished basement,2500,2000
+790,BP-00-0626,131707002001,,Residential Addition,ADD GAR & 2ND STORY ADDITION,add gar & 2nd story addition,95000,2000
+791,BP-00-0627,146536000003,,Residential Accessory Building,PROPANE TANK,propane tank,500,2000
+792,BP-00-0628,158321211012,,Residential Remodel,TEAROFF/INSTALL TORCH DOWN ROOF,tearoff / install torch down roof,9000,2000
+793,BP-00-0629,157701110002,,Residential Addition,ADD PORCH COVER,add porch cover,5000,2000
+794,BP-00-0636,120517000018,,Accessory Agricultural Building,POLE BARN,pole barn,14196,2000
+795,BP-00-0630,146312304012,,Commercial Remodel,REMODEL 2 OUTSIDE PUBLIC TOILETS,remodel 2 outside public toilets,31045,2000
+796,BP-00-0631,157925414014,,Residential Remodel,TEAROFF/REROOF RES/T-LOKS,tearoff / reroof res / t - loks,2407,2000
+797,BP-00-0632,158321000025,,Residential Addition,ADD TO/REMODEL RES,add to / remodel res,56895,2000
+798,BP-00-0633,146509300011,,Residential Remodel,REMODEL FIRE DAMAGE SINGLE FAM DWELLING,remodel fire damage single fam dwelling,35000,2000
+799,BP-00-0634,158136008008,,Residential Remodel,FULL TEAR OFF / REROOF 3 TAB 25YR SHINGLES(WITHDRAWN BY OWNER 5/5/2000),full tear off / reroof 3 tab 25yr shingles ( withdrawn by owner 5 / 5 / 2000 ),1800,2000
+800,BP-00-0635,131519002002,,Residential Remodel,BASEMENT FINISH,basement finish,60000,2000
+801,BP-00-0638,146311405004,,Residential Remodel,TEAR OFF/ REROOF COMP,tear off / reroof comp,5499,2000
+802,BP-00-0639,158313203007,,Residential Addition,ENTRY ADDITION / INTERIOR REMODEL,entry addition / interior remodel,80000,2000
+803,BP-00-0640,120506000036,,Accessory Agricultural Building,POLE BARN,pole barn,51150,2000
+804,BP-00-0641,131530305005,,Residential Remodel,BASEMENT FINISH,basement finish,11902,2000
+805,BP-00-0642,131722204001,,Residential Remodel,INSTALL THERMOSTAT-A/C-AIR CLEANER,install thermostat - a / c - air cleaner,2583,2000
+806,BP-00-0643,146314209002,,Residential Remodel,INSTALL FURNACE & 2.5 TON A/C(EXPIRED-11/22/04),install furnace & 2 . 5 ton a / c ( expired - 11 / 22 / 04 ),3400,2000
+807,BP-00-0644,146312416031,,Residential Remodel,REPLACE WATER HEATER,replace water heater,579,2000
+808,BP-00-0645,131736109001,,Residential Remodel,REPLACE WATER HEATER,replace water heater,579,2000
+809,BP-00-0646,120520008005,,Residential Remodel,INSTALL (2) A/C UNITS,install ( 2 ) a / c units,1983,2000
+810,BP-00-0647,146313214004,,Residential Remodel,REPLACE GAS FURNACE,replace gas furnace,707,2000
+811,BP-00-0648,131736108002,,Residential Remodel,INSTALL FURNACE & A/C,install furnace & a / c,1462,2000
+812,BP-00-0649,146311411008,,Residential Remodel,INSTALL FURNACE & A/C,install furnace & a / c,913,2000
+813,BP-00-0650,146313201006,,Residential Remodel,TEAROFF/REROOF CHURCH/EPDM,tearoff / reroof church / epdm,22180,2000
+814,BP-00-0651,146309007010,,New Residence,SINGALE FAM DWELLING/ATT GAR,singale fam dwelling / att gar,350000,2000
+815,BP-00-0652,158313218001,,New Commercial Building,PHASE II CONVERTING GARAGE TO MUSEUM,phase ii converting garage to museum,75000,2000
+816,BP-00-0653,157925406003,,Residential Addition,*WITHDRAWN 5-8-00* ADDITION TO RESIDENCE,*withdrawn 5 - 8 - 00* addition to residence,0,2000
+817,BP-00-0654,146506000008,,Residential Addition,ADD TO RES,add to res,185000,2000
+818,BP-00-0655,120325204004,,Accessory Agricultural Building,POLE BARN,pole barn,17484,2000
+819,BP-00-0656,146133002007,,Accessory Agricultural Building,SHED,shed,7280,2000
+820,BP-00-0657,131935000009,,Residential Addition,ADDITION TO SINGLE FAM DWELLING,addition to single fam dwelling,625000,2000
+821,BP-00-0658,146310450007,,Residential Remodel,FURNACE REPLACEMENT 69000BTU,furnace replacement 69000btu,1206,2000
+822,BP-00-0659,131728000010,,Electrical Service Change,ELEC FOR IRRIGATION PUMP (EXPIRED ON 08-03-2005),elec for irrigation pump ( expired on 08 - 03 - 2005 ),2000,2000
+823,BP-00-0660,131736114002,,Commercial Addition,ADDITION TO POLE BARN,addition to pole barn,20384,2000
+824,BP-00-0661,131529301010,,Electrical Service Change,SERVICE PANEL CHANGE FOR RES,service panel change for res,495,2000
+825,BP-00-0662,146314207005,,Electrical Service Change,UPGRADE ELEC TO 200AMP(EXPIRED-11/22/04),upgrade elec to 200amp ( expired - 11 / 22 / 04 ),300,2000
+826,BP-00-0663,119712000062,,Electrical Service Change,ELEC UPGRADE,elec upgrade,700,2000
+827,BP-00-0664,131713004010,,Residential Addition,FINISH REC ROOM / 99-1983,finish rec room / 99 - 1983,16000,2000
+828,BP-00-0665,146311202012,,Residential Accessory Building,DEMO POOL,demo pool,5000,2000
+829,BP-00-0666,131502400001,,Electrical Service Change,ELEC UPGRADE FOR SUGAR SILOS,elec upgrade for sugar silos,302000,2000
+830,BP-00-0688,146309005001,,Residential Accessory Building,IN GROUND POOL,in ground pool,25000,2000
+831,BP-00-0667,120520409001,,Accessory Agricultural Building,POLE BARN (SEE EXPIRED 99387),pole barn ( see expired 99387 ),10483,2000
+832,BP-00-0668,120514000017,,Accessory Agricultural Building,DEMO/REBUILD GARAGE--WORKSHOP,demo / rebuild garage - - workshop,30285,2000
+833,BP-00-0669,146313215016,,Residential Addition,CONVERT COVERED DECK TO ENCLOSED OFFICE,convert covered deck to enclosed office,9000,2000
+834,BP-00-0670,146102000004,,Residential Addition,ENCLOSE PORCH ADDITION (EXPIRED ON 11-05-04),enclose porch addition ( expired on 11 - 05 - 04 ),17464,2000
+835,BP-00-0671,146312302019,,Residential Remodel,INSTALL A/C IN RES,install a / c in res,1859,2000
+836,BLD-01-086,158324000003,,Building Lot Determination,BLOT (approx 1 acre),blot ( approx 1 acre ),0,2001
+837,BP-00-0672,146334400015,,Residential Remodel,WITHDRAWN PER CONTRACTOR - INSTALL A/C,withdrawn per contractor - install a / c,2750,2000
+838,BP-00-0673,146301303006,,Residential Remodel,REPLACE FURNACE,replace furnace,1293,2000
+839,BP-00-0674,131736112004,,Residential Remodel,INSTALL 5-TON A/C & AIR CLEANER,install 5 - ton a / c & air cleaner,7431,2000
+840,BP-00-0675,146130003016,,Residential Addition,ADD KIT-SEWING-MBR-DECK/REM BATHS,add kit - sewing - mbr - deck / rem baths,95000,2000
+841,BP-00-0676,146335302013,,Residential Accessory Building,IN-GROUND SWIMMING POOL,in - ground swimming pool,16250,2000
+842,BLD-01-009,145913000008,,Building Lot Determination,BLOT for the Morning Glory Lode,blot for the morning glory lode,0,2001
+843,BP-00-0677,158113000028,,Residential Addition,ADDITION TO STUDIO(BWOP),addition to studio ( bwop ),50514,2000
+844,BP-00-0678,146335308005,,Electrical Service Change,METER FOR UNDERGRND SERVICE,meter for undergrnd service,100,2000
+845,BP-00-0679,131722200001,,Electrical Service Change,UPGRADE ELECTRICAL,upgrade electrical,650,2000
+846,BP-00-0680,146312411012,,Residential Remodel,VINYL SIDING ON RES,vinyl siding on res,18700,2000
+847,BP-00-0681,146315010001,,Residential Remodel,TEAROFF/REROOF BARN/CLASS C SHAKES,tearoff / reroof barn / class c shakes,10330,2000
+848,BP-00-0682,146315010001,,Residential Remodel,TEAROFF/REROOF SHED/25-YR FIBERGLASS,tearoff / reroof shed / 25 - yr fiberglass,2200,2000
+849,BP-00-0683,146315010001,,Residential Accessory Building,TEAROFF/REROOF DET GAR/FIBERGLASS,tearoff / reroof det gar / fiberglass,900,2000
+850,BP-00-0684,146327000003,,Commercial Remodel,INT REMODEL TO CREATE 3RD OFFICE,int remodel to create 3rd office,18475,2000
+851,BP-00-0685,157729001001,,Residential Remodel,FULL TEAR OFF / REROOF DELLA STONE SHINGLES,full tear off / reroof della stone shingles,14900,2000
+852,BP-00-0686,158313427001,,Residential Addition,ADD TO RES,add to res,69957,2000
+853,BP-00-0687,131930002005,,Electrical Service Change,ELECT TO SEPTIC LIFT STATION (EXPIRED ON 11-03-2006),elect to septic lift station ( expired on 11 - 03 - 2006 ),120,2000
+854,BP-01-1990,158313110021,,Electrical Service Change,ELECTRICAL UPGRADE,electrical upgrade,200,2001
+855,BP-00-0689,146322300014,,Moved in Residence,MOVED IN MOBILE HOME,moved in mobile home,2500,2000
+856,BP-00-0690,158313241007,,New Residence,SINGLE FAM DWELL / ATT GAR,single fam dwell / att gar,190000,2000
+857,BP-00-0691,146318400008,,New Residence,DEMO RES,demo res,5000,2000
+858,BP-00-0692,157712201005,,Residential Accessory Building,FINISH 2ND FLR DET GAR,finish 2nd flr det gar,16863,2000
+859,BP-00-0693,146521001002,,Residential Accessory Building,DETACHED GARAGE/WORKSHOP,detached garage / workshop,80000,2000
+860,BP-00-0694,157712202007,,Residential Addition,ADDITION / REMODEL SINGLE FAM DWELLING,addition / remodel single fam dwelling,30000,2000
+861,BP-00-0695,146103004001,,Residential Addition,ADD 2-CAR GAR TO RES,add 2 - car gar to res,18200,2000
+862,BP-00-0696,131529303015,,Residential Addition,ADDITION TO SINGLE FAMILY DWELLING,addition to single family dwelling,110000,2000
+863,BP-00-0697,120520003005,,Residential Remodel,INSTALL 2 AC UNITS,install 2 ac units,3790,2000
+864,BP-00-0698,146307000040,,Residential Addition,ADD TO RES,add to res,183516,2000
+865,BP-00-0699,131531104008,,Residential Remodel,BASEMENT FINISH,basement finish,30000,2000
+866,BP-00-0752,157721000078,,Commercial Remodel,OFFICE REMODEL,office remodel,1000,2000
+867,BP-00-0700,146118000019,,Residential Addition,ADDITION TO SINGLE FAM DWELL,addition to single fam dwell,49655,2000
+868,BP-00-0701,131728000021,,Accessory Agricultural Building,POOL HOUSE/STUDIO,pool house / studio,15549,2000
+869,BP-00-0702,120333001003,,New Residence,SINGLE FAM DWELLING/ATT GAR,single fam dwelling / att gar,1500000,2000
+870,BP-00-0703,158136001010,,Residential Remodel,NEW BOILER/GASLINE/BATH FIXTURES - FINAL INSPECTION COMPLETED ON 8/16/01 BY P.D.,new boiler / gasline / bath fixtures - final inspection completed on 8 / 16 / 01 by p . d .,12000,2000
+871,BP-00-0704,158313243002,,New Residence,SINGLE FAM DWELLING / NO GAR,single fam dwelling / no gar,125000,2000
+872,BP-08-2500,,,New Residence,THIS IS A DUMMY PERMIT,this is a dummy permit,33120,2008
+873,BP-00-0705,158127000002,,Electrical Service Change,UPGRADE SERVICE,upgrade service,200,2000
+874,BP-00-0707,146507309011,,Residential Remodel,FURNACE & 3-TON A/C,furnace & 3 - ton a / c,3700,2000
+875,BP-00-0708,157513408010,,Residential Remodel,EVAPORATIVE COOLER,evaporative cooler,2400,2000
+876,BP-00-0709,131722206002,,Residential Remodel,(2) EVAPORATIVE COOLERS(EXPIRED-FINAL NOT REQUESTED),( 2 ) evaporative coolers ( expired - final not requested ),4000,2000
+877,BP-00-0710,157925414026,,Residential Remodel,TEAR OFF/REROOF RES/METAL (WITHDRAWN),tear off / reroof res / metal ( withdrawn ),2000,2000
+878,BP-00-0711,145902000008,,New Residence,SINGLE FAM DWELLING/ATT GAR (SPR-00-018),single fam dwelling / att gar ( spr - 00 - 018 ),172908,2000
+879,BP-00-0712,146130003011,,Residential Remodel,INSTALL PROPANE FIREPLACE,install propane fireplace,3000,2000
+880,BP-00-0713,158118002006,,Electrical Service Change,TRIPLE 8' PANEL ANTENNA & EQUIPMENT(EXPIRED-10/27/03),triple 8' panel antenna & equipment ( expired - 10 / 27 / 03 ),12000,2000
+881,BP-00-0714,131732302003,,Residential Remodel,TEAR OFF  / REROOF WITH FIBERGLASS DIMENSIONALS,tear off / reroof with fiberglass dimensionals,5908,2000
+882,BP-00-0715,146532010014,,Residential Remodel,BASEMENT FINISH,basement finish,33338,2000
+883,BP-00-0728,119726004016,,Residential Addition,ADDITION-SEE 99 1796,addition - see 99 1796,2500,2000
+884,BP-00-0716,146532010012,,Residential Remodel,BASEMENT FINISH,basement finish,24412,2000
+885,BP-00-0717,131913003033,,Residential Remodel,REPLACE WATER HEATER,replace water heater,679,2000
+886,BP-00-0718,146114023009,,New Residence,SINGLE FAM DWELLING/ATT GAR (SPR-99-068),single fam dwelling / att gar ( spr - 99 - 068 ),375000,2000
+887,BP-00-0719,146104021009,,Residential Addition,ADD TO RES,add to res,100000,2000
+888,BP-00-0720,158320009008,,Residential Addition,DEMO GRNHSE/ADD STUDIO TO RES,demo grnhse / add studio to res,30000,2000
+889,BP-00-0721,131530011011,,Residential Remodel,BASEMENT FINISH,basement finish,30000,2000
+890,BP-00-0722,120512002005,,Residential Remodel,INSTALL WOOD STOVE,install wood stove,1500,2000
+891,BP-00-0723,,,Electrical Service Change,ELEC FOR STREETLIGHTS IN ROW,elec for streetlights in row,10000,2000
+892,BP-00-0724,146317303006,,Electrical Service Change,UPGRADE ELECT SERVICE,upgrade elect service,1865,2000
+893,BP-00-0725,157931006004,,Electrical Service Change,ELECT.UPGRADE,elect . upgrade,1000,2000
+894,BP-00-0726,146104001004,,Residential Remodel,TEAR OFF / REROOF /GUTTERS/DOWNSPOUTS/FLASHING,tear off / reroof / gutters / downspouts / flashing,14115,2000
+895,BP-00-0727,131717000004,,Residential Remodel,TEAR OFF / REROOF 25YR 3-TAB - FINAL INSPECTION COMPLETED ON 5/15/00 BY P.D.,tear off / reroof 25yr 3 - tab - final inspection completed on 5 / 15 / 00 by p . d .,3300,2000
+896,BP-00-0729,158111000018,,Residential Remodel,INSTALL PROPANE TANK(EXPIRED-NO FINAL REQUESTED-8/25/06),install propane tank ( expired - no final requested - 8 / 25 / 06 ),400,2000
+897,BP-00-0730,157925406003,,Residential Addition,NEW FDN & BSMT FOR RES,new fdn & bsmt for res,40000,2000
+898,BP-00-0731,158313402004,,Electrical Service Change,3-PHASE CIRCUIT @ GROCERY STORE,3 - phase circuit @ grocery store,1000,2000
+899,BP-00-0732,145924000031,,New Residence,SINGLE FAM DWELLING/ATT GAR (SPR-99-037),single fam dwelling / att gar ( spr - 99 - 037 ),950000,2000
+900,BP-00-0733,146310422005,,Residential Remodel,INSTALL A/C,install a / c,2250,2000
+901,BP-04-0253,131519004002,,Residential Accessory Building,INGROUND SWIMMING POOL,inground swimming pool,30000,2004
+902,BP-00-0734,158313100026,,Residential Remodel,TEAROFF-REROOF-ASPHALT/DOORS-WDWS-SIDING,tearoff - reroof - asphalt / doors - wdws - siding,28000,2000
+903,BP-00-0735,146312302030,,Residential Addition,ADD PORCH TO RES,add porch to res,10000,2000
+904,BP-00-0736,146313212005,,New Residence,ADDITION TO SINGLE FAM DWELLING,addition to single fam dwelling,25000,2000
+905,BP-00-0737,146101000001,,New Residence,DEMO HOUSE AND DET GAR,demo house and det gar,7000,2000
+906,BP-00-0738,146531000016,,New Residence,DEMO SINGLE FAM DWELLING,demo single fam dwelling,7000,2000
+907,BP-00-0739,120326000045,,Electrical Service Change,ELECTRIC FOR LIFT STATION,electric for lift station,300,2000
+908,BP-00-0740,131924006002,,Residential Addition,ADD BR/PLAYRM/2 BA/DEN/STUDY/RET.WALL,add br / playrm / 2 ba / den / study / ret . wall,100000,2000
+909,BP-00-0741,120508000017,,Accessory Agricultural Building,POLE BARN,pole barn,6200,2000
+910,BP-00-0742,157931003006,,Residential Addition,ENLG BR-BA/ADD CLOSETS/WALKOUT BSMT,enlg br - ba / add closets / walkout bsmt,38300,2000
+911,BP-00-0743,120332000008,,Residential Remodel,CONVERT TO RESIDENCE/ REMODEL/ DECK,convert to residence / remodel / deck,145000,2000
+912,BP-00-0744,146313214019,,Residential Remodel,GAS LINE TO BBQ,gas line to bbq,350,2000
+913,BP-00-0745,146334100042,,Residential Accessory Building,DETACHED GARAGE,detached garage,17454,2000
+914,BP-00-0746,131530322012,,Residential Remodel,INSTALL GAS INSERT,install gas insert,1392,2000
+915,BP-00-0747,146312316016,,Residential Remodel,INSTALL FURNACE,install furnace,1931,2000
+916,BP-00-0748,146507309011,,Residential Remodel,RECONNECT A/C,reconnect a / c,150,2000
+917,BP-00-0749,146104012006,,Residential Remodel,TEAROFF/REROOF RES/SHINGLES,tearoff / reroof res / shingles,5900,2000
+918,BP-00-0750,146514010003,,Residential Remodel,INSTALL FURNACE,install furnace,1300,2000
+919,BP-00-0751,131530323015,,Residential Remodel,INSTALL A/C,install a / c,1838,2000
+920,BP-00-0753,146311109013,,Residential Remodel,BATHROOM REMODEL,bathroom remodel,15000,2000
+921,BP-00-0754,146532010011,,New Residence,SINGLE FAM DWELLING/ATT GAR(EXPIRED 8/28/01)LLC,single fam dwelling / att gar ( expired 8 / 28 / 01 ) llc,0,2000
+922,BP-00-0755,145932000011,,Grading,GRADING FOR A DRIVEWAY,grading for a driveway,0,2000
+923,BP-00-0756,146113306009,,Residential Remodel,INSTALL A/C,install a / c,1992,2000
+924,BP-00-0757,,,Electrical Service Change,CABLE TV POWER SUPPLY IN ROW,cable tv power supply in row,390,2000
+925,BP-00-0758,145913000042,,Electrical Service Change,UPGRADE PANEL / UNDERGROUND ELECT,upgrade panel / underground elect,550,2000
+926,BP-00-0759,146311108008,,Residential Addition,ADD TO LIVING ROOM,add to living room,29500,2000
+927,BP-00-0760,146325000019,,Residential Accessory Building,(2) SKATE RAMPS,( 2 ) skate ramps,7000,2000
+928,BP-00-0761,146126000012,,Residential Addition,2-STORY ADDITION TO RES,2 - story addition to res,52252,2000
+929,BP-00-0762,,,New Commercial Building,FLOW CONTROL VAULT (EXPIRED ON 01-24-05),flow control vault ( expired on 01 - 24 - 05 ),110000,2000
+930,BP-00-0763,158321220003,,Residential Addition,ADD TO RES,add to res,37751,2000
+931,BP-00-0863,146310469016,,Residential Remodel,INSTALL AC,install ac,2373,2000
+932,BP-00-0764,146124214002,,Electrical Service Change,ELEC TO TELEPHONE CABINET IN ROW,elec to telephone cabinet in row,1000,2000
+933,BP-00-0765,,,Electrical Service Change,ELEC TO TELEPHONE CABINET IN ROW,elec to telephone cabinet in row,1000,2000
+934,BP-00-0766,146317310008,,Residential Remodel,PARTIAL BASEMT FINISH,partial basemt finish,4000,2000
+935,BP-00-0767,146312403008,,Residential Addition,ADDITION / REMODEL TO SFD,addition / remodel to sfd,25000,2000
+936,BP-00-0768,131736007011,,Electrical Service Change,INSTALL HOT TUB / ELECTRICAL,install hot tub / electrical,6500,2000
+937,BP-00-0769,146328000067,,Electrical Service Change,UPGRADE ELECT. 600 AMP,upgrade elect . 600 amp,20000,2000
+938,BP-00-0770,157925410002,,Residential Addition,ADDITION TO SINGLE FAM DWELLING(EXPIRED. SUPERSEEDED BY BP-00-1530),addition to single fam dwelling ( expired . superseeded by bp - 00 - 1530 ),200000,2000
+939,BP-00-0771,145914002006,,Residential Remodel,TEAROFF/REROOF RES/EDPM,tearoff / reroof res / edpm,6300,2000
+940,BP-00-0772,146312413007,,Residential Remodel,FURNACE & A/C,furnace & a / c,4826,2000
+941,BP-00-0773,146315101033,,Residential Remodel,A/C & ELEC (EXPIRED ON 10-13-2004 - FINAL NEVER REQUESTED),a / c & elec ( expired on 10 - 13 - 2004 - final never requested ),2900,2000
+942,BP-00-0774,145917000004,,Accessory Agricultural Building,GAZEBO,gazebo,5000,2000
+943,BP-00-0775,131531104008,,Residential Remodel,INTERIOR REMODEL/NEW WINDOWS,interior remodel / new windows,20000,2000
+944,BP-00-0776,131532006004,,Residential Accessory Building,IRRIGATION SYSTEM FOR SUBDIVISION ENTRY,irrigation system for subdivision entry,300,2000
+945,BP-00-0777,146312410006,,Residential Addition,2ND STORY DECK,2nd story deck,3500,2000
+946,BP-00-0778,131530305001,,Residential Remodel,TEAROFF/REROOF RES/30-YR FIBERGLASS,tearoff / reroof res / 30 - yr fiberglass,7800,2000
+947,BP-00-0779,146114004015,,Residential Remodel,TEAR OFF / REROOF/FIBERGLASS SHINGLES,tear off / reroof / fiberglass shingles,2800,2000
+948,BP-00-0780,146114002009,,Residential Remodel,TEAR OFF / REROOF/FIBERGLASS SHINGLES,tear off / reroof / fiberglass shingles,2500,2000
+949,BP-00-0881,,,Electrical Service Change,CATV IN ROW,catv in row,390,2000
+950,BP-00-0781,146114028003,,Residential Addition,2ND STORY ADDITION,2nd story addition,50000,2000
+951,BP-00-0782,146317404004,,Residential Remodel,PARTIAL BASEMENT FINISH,partial basement finish,5000,2000
+952,BP-00-0783,157925414026,,Residential Remodel,REPAIR FIRE DAMAGE,repair fire damage,20000,2000
+953,BP-00-0784,157721000077,,Commercial Remodel,UNDGRND PLUMB *WITHDRAWN*,undgrnd plumb *withdrawn*,8000,2000
+954,BP-00-0785,146315200004,,Residential Remodel,REPLACE WATER HEATER(EXPIRED-FINAL NOT REQUESTED-1/17/03),replace water heater ( expired - final not requested - 1 / 17 / 03 ),450,2000
+955,BP-00-0786,158300301001,,New Commercial Building,SKIER SERVICES BLDG,skier services bldg,1500000,2000
+956,BP-00-0787,146312316020,,Residential Remodel,INSTALL GAS FURNACE,install gas furnace,3500,2000
+957,BP-00-0788,131719000023,,Accessory Agricultural Building,2-STALL LOAFING SHED,2 - stall loafing shed,9000,2000
+958,BP-00-0789,145900000036,,Accessory Agricultural Building,STORAGE SHED,storage shed,4077,2000
+959,BP-00-0790,120520401008,,Residential Remodel,REPLACE FURNACE - FINAL INSPECTION COMPLETED ON 1/16/02 BY B.K.,replace furnace - final inspection completed on 1 / 16 / 02 by b . k .,1618,2000
+960,BP-00-0791,131719000016,,Accessory Agricultural Building,POLE BARN FOR HAY STORAGE,pole barn for hay storage,28570,2000
+961,BP-00-0802,146312202010,,Residential Remodel,REMOD MBR/MBATH/CLOSET/ENTRY,remod mbr / mbath / closet / entry,21000,2000
+962,BP-00-0792,146123016001,,New Residence,SINGLE FAM DWELLING/ATT GAR (LU-99-09),single fam dwelling / att gar ( lu - 99 - 09 ),700000,2000
+963,BP-00-0793,132129007006,,Residential Addition,ADD GARAGE TO RES,add garage to res,40835,2000
+964,BP-00-0794,131934010008,,Residential Remodel,TEAROFF/RE-ROOF COMP,tearoff / re - roof comp,4200,2000
+965,BP-00-0795,131702003005,,Accessory Agricultural Building,METAL STORAGE BLDG,metal storage bldg,10540,2000
+966,BP-00-0796,131732301009,,Residential Remodel,TEAROFF/RE-ROOF FIBERGLASS,tearoff / re - roof fiberglass,4771,2000
+967,BP-00-0906,146317201008,,Residential Remodel,INSTALL FURNACE& A/C,install furnace & a / c,4315,2000
+968,BP-00-0797,157701302002,,Electrical Service Change,WIRE SEPTIC LIFT STATION,wire septic lift station,300,2000
+969,BP-00-0798,146509403010,,Electrical Service Change,SERVICE UPGRADE,service upgrade,1000,2000
+970,BP-00-0799,146122008008,,Residential Remodel,KITCHEN REMODEL,kitchen remodel,18000,2000
+971,BP-00-0800,131729000008,,Accessory Agricultural Building,DETACHED GARAGE,detached garage,13978,2000
+972,BP-00-0801,158114005006,,Residential Addition,ADD LIV RM-KITCH-1/2 BATH-ENTRY,add liv rm - kitch - 1 / 2 bath - entry,65696,2000
+973,BP-00-0832,158313201015,,Residential Addition,DECK ADDITION,deck addition,8000,2000
+974,BP-00-0803,120522306008,,Residential Accessory Building,DETACHED GARAGE,detached garage,21500,2000
+975,BP-00-0804,131703005012,,Residential Addition,COVERED ENTRY,covered entry,15000,2000
+976,BP-00-0805,146335304005,,Electrical Service Change,CONVERT OVERHD ELECT TO UNDERGRD,convert overhd elect to undergrd,250,2000
+977,BP-00-0806,146335308006,,Electrical Service Change,ELECT OVERHD TO UNDERGRD,elect overhd to undergrd,250,2000
+978,BP-00-0807,146335308007,,Electrical Service Change,ELEC OVERHD TO UNDERGRD,elec overhd to undergrd,550,2000
+979,BP-00-0808,146301302014,,Residential Remodel,INSTALL FURNACE,install furnace,4200,2000
+980,BP-00-0809,146532010009,,Residential Remodel,FINISH BASEMENT,finish basement,20000,2000
+981,BP-00-0810,146317311016,,Residential Addition,ADD DECK TO RESIDENCE,add deck to residence,3750,2000
+982,BP-00-0811,146334108016,,Residential Addition,ADD GABLED ROOF ABOVE 2ND LEVEL DECK,add gabled roof above 2nd level deck,7000,2000
+983,BP-00-0812,146313210002,,Residential Addition,REPLACE PORCH/PUT (2) EGRESS IN BSMT,replace porch / put ( 2 ) egress in bsmt,3500,2000
+984,BP-00-0813,146507310006,,Residential Addition,3-LEVEL REDWOOD DECK,3 - level redwood deck,10000,2000
+985,BP-00-0814,158118007018,,Residential Remodel,PARTIAL BSMT FINISH,partial bsmt finish,5638,2000
+986,BP-00-0815,158104009001,,New Residence,SINGLE FAM DWELLING/NO GAR/UNFIN BSMT (SPR-95-045),single fam dwelling / no gar / unfin bsmt ( spr - 95 - 045 ),113585,2000
+987,BP-00-0816,120320100004,,Unlighted Free-standing Sign,FIREWORKS STAND & SIGN,fireworks stand & sign,0,2000
+988,BP-00-0817,131925000016,,Unlighted Free-standing Sign,SIGN FOR MARKETING OFFICE,sign for marketing office,2768,2000
+989,BP-00-0818,157702000006,,Accessory Agricultural Building,LOAFING SHED,loafing shed,9523,2000
+990,BP-00-0819,131531107007,,Residential Addition,EXPAND KITCHEN/REMODEL,expand kitchen / remodel,102000,2000
+991,BP-00-0820,158104009016,,Residential Addition,ADD GARAGE TO RES(PERMIT APP EXPIRED 01/23/2001 SM),add garage to res ( permit app expired 01 / 23 / 2001 sm ),0,2000
+992,BP-00-0821,158113000028,,Residential Addition,ADDITION & REMODEL S F DWELLING,addition & remodel s f dwelling,200000,2000
+993,BP-00-0822,131528001001,,Grading,GRADING LOT,grading lot,0,2000
+994,BP-00-0823,131924007062,,Residential Addition,ADD OFFICE ABOVE GAR & BR ABOVE MBR,add office above gar & br above mbr,64550,2000
+995,BP-00-0824,146335203005,,Residential Accessory Building,DETACHED 1-CAR GARAGE,detached 1 - car garage,16500,2000
+996,BP-00-0825,131526004002,,New Residence,SINGLE FAM DWELLING/ATT GAR,single fam dwelling / att gar,320000,2000
+997,BP-00-0826,131518301003,,Residential Remodel,BASEMENT FINISH,basement finish,22777,2000
